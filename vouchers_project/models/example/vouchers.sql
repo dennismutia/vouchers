@@ -7,26 +7,25 @@
     Try changing "table" to "view" below
 */
 
-{{ config(materialized='table') }}
+{{
+    config(
+        materialized='incremental'
+    )
+}}
 
-with vouchers as (
+select distinct 
+    user_id,
+    voucher_code,
+    product,
+    ltrim(split_part(vendor, ',', 1), '{') as country,
+    btrim(rtrim(split_part(vendor, ',', 2), '}'), '"') as vendor,
+    status,
+    date::timestamp as date
+from public.stg_vouchers
 
-    select distinct 
-        user_id,
-        voucher_code,
-        product,
-        ltrim(split_part(vendor, ',', 1), '{') as country,
-        btrim(rtrim(split_part(vendor, ',', 2), '}'), '"') as vendor,
-        status,
-        date
-    from public.stg_vouchers
-)
+{% if is_incremental() %}
 
-select *
-from vouchers
+  -- this filter will only be applied on an incremental run
+  where date::timestamp > (select max(date)::timestamp from vouchers)
 
-/*
-    Uncomment the line below to remove records with null `id` values
-*/
-
--- where id is not null
+{% endif %}
