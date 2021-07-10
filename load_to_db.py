@@ -24,8 +24,8 @@ def read_file_to_db(dir):
     key = list(data)[0]
     df = pd.DataFrame.from_dict(data[key])
     df['date'] = datetime.strptime(key, '%Y-%m-%d')
-    df = df.reset_index()
-    df.to_sql('stg_vouchers', engine, if_exists='replace')
+    df = df.reset_index(drop=True)
+    df.to_sql('stg_vouchers', engine, if_exists='append', index=False)
     
     return df
 
