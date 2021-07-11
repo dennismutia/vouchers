@@ -1,10 +1,15 @@
 
 /*
-    Welcome to your first dbt model!
-    Did you know that you can also configure models directly within SQL files?
-    This will override configurations stated in dbt_project.yml
+This script creates a vouchers table with clean columns for analysis
 
-    Try changing "table" to "view" below
+input
+--------
+stg_vouchers table - staging table containing raw dataset from json files
+
+output
+--------
+vouchers table - table with clean vouchers data
+
 */
 
 {{

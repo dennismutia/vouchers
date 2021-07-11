@@ -1,5 +1,15 @@
 /*
 Create a date timension with dates ranging from the minimum date in vouchers table to the maximum date in the same table.
+This will enable the creation of a gapless grid to capture any date gaps in the vouchers dataset for computations.
+
+input
+-----
+- min_date - the first date in the vouchers table from when the date dim should start
+- max_date - the last date in the vouchers table to when the date dim should end.
+
+output
+-------
+- date dim master_calendar with dates ranging from start of data to the last date of the dataset
 */
 
 {{
