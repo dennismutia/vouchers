@@ -40,7 +40,7 @@ Vouchers table
 | field name         | type       | description                 |
 | -----------------  |------------|-----------------------      |
 | user_id            | int        | id of the user              |
-| voucher_code       | hash       | unique id of the voucher    |
+| voucher_code       | binary     | unique id of the voucher    |
 | product            | varchar    | name of product             |
 | country            | varchar    | vendor country              |
 | status             | varchar    | voucher redemption status   |
