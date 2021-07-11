@@ -57,7 +57,9 @@ There are several steps involved in runnig this project.
     ```
 
 2. Run the command below from a terminal to stage the json files to the tb. Run the command from the root folder of the project.
-    ```python3 load_to_db.py```
+    ```
+    python3 load_to_db.py
+    ```
 
 3. Run dbt to clean the data and build the data models.
     ```
