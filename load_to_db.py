@@ -7,18 +7,35 @@ from datetime import datetime
 import sqlalchemy
 from sqlalchemy import create_engine
 
-# path to folder with data
-dir = os.path.join(os.getcwd(), 'data/vouchers/')
+def get_max_date(engine):
+    """
+    This function gets the latest date in the database. This is the date when data was last loaded.
 
-# database connection
-engine = create_engine('postgresql://postgres@localhost:5432/vouchers')
+    Arguments:
+        engine: the database connection string
 
-# data when to start writing files to db
-max_date = datetime.strptime('2018-11-23', '%Y-%m-%d') # change to fetch from db
+    Returns:
+        max_date: date when data was last loaded into the db. Used to filter files after this date for loading to the database.
+    """
+    try:
+        max_date = pd.read_sql_query("select max(date)::timestamp from stg_vouchers;", con=engine).iloc[0].item()
+    except:
+        max_date = datetime.strptime('2000-01-01', '%Y-%m-%d') 
+    return max_date
 
-def read_file_to_db(dir):
 
-    with gzip.open(dir, "rb") as f:
+def read_file_to_db(file, engine):
+    """
+    This function reads, cleans and writes .json files to a staging table in a database.
+
+    Arguments:
+        file: the path of json the file to be written to db
+        engine: the database connection string
+
+    Returns:
+        None
+    """
+    with gzip.open(file, "rb") as f:
         data = json.loads(f.read())
 
     key = list(data)[0]
@@ -27,9 +44,19 @@ def read_file_to_db(dir):
     df = df.reset_index(drop=True)
     df.to_sql('stg_vouchers', engine, if_exists='append', index=False)
     
-    return df
 
 def get_files(dir, max_date):    
+    """
+    This function loops through .json files and identifies the ones not already staged to the db. 
+    It then calls the read_file_to_db() function to write these files to the staging db.
+
+    Arguments:
+        dir: path to the directory containing the json files
+        max_date: the latest date date in the staging table. Used to filter files to the staged to the database.
+
+    Returns:
+        None
+    """
     
     files_to_db = []
 
@@ -41,11 +68,20 @@ def get_files(dir, max_date):
     
     for file in files_to_db:
         try:
-            read_file_to_db(file)
+            read_file_to_db(file, engine)
             print('{} written successfully to db'.format(file))
         except Exception as e:
             print(e)
 
-
 if __name__ == "__main__":
+    # path to folder with data
+    dir = os.path.join(os.getcwd(), 'data/vouchers/')
+
+    # database connection
+    engine = create_engine('postgresql://postgres@localhost:5432/vouchers')
+
+    # date when to start writing files to db
+    max_date = get_max_date(engine)
+
+    # write data to db
     get_files(dir, max_date)
