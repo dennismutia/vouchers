@@ -2,19 +2,25 @@
 version: 2
 
 models:
-    - name: my_first_dbt_model
-      description: "A starter dbt model"
+    - name: vouchers
+      description: "Vouchers model"
       columns:
-          - name: id
+          - name: voucher_code
             description: "The primary key for this table"
             tests:
                 - unique
                 - not_null
+          - name: status
+            description: "The status of the voucher, whether redeemed or clipped"
+            tests:
+              - accepted_values:
+                  values: ['clipped', 'redeemed'] 
 
-    - name: my_second_dbt_model
-      description: "A starter dbt model"
+
+    - name: master_calendar
+      description: "date dimension"
       columns:
-          - name: id
+          - name: date
             description: "The primary key for this table"
             tests:
                 - unique
