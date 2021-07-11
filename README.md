@@ -25,20 +25,20 @@ The output of this project is two tables.
 
 Master calendar date dimension  
 
-| field name         | type       | description             |
-| ----- ------------ |------------|-----------------------  |
-| date               | datetime   | date field              |
-| day_of_week        | int        | day of the week         |
-| day_of_month       | int        | day of the month        |
-| week_of_month      | int        | week of the month       |
-| week_of_year       | int        | week of the year        |
-| month              | int        | month number            |
-| year               | int        | month number            |
+ field name         | type       | description             
+--- | --- | ---  
+ date               | datetime   | date field           
+ day_of_week        | int        | day of the week         
+ day_of_month       | int        | day of the month        
+ week_of_month      | int        | week of the month       
+ week_of_year       | int        | week of the year        
+ month              | int        | month number            
+ year               | int        | month number          
 
 Vouchers table 
 
 | field name         | type       | description                 |
-| ----- ------------ |------------|-----------------------      |
+| -----------------  |------------|-----------------------      |
 | user_id            | int        | id of the user              |
 | voucher_code       | hash       | unique id of the voucher    |
 | product            | varchar    | name of product             |
