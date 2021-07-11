@@ -19,6 +19,7 @@ Wefarm has voucher data stored in json files. There is need to have this data cl
         ```
         pip3 install -r requirements.txt
         ``` 
+** It is preferrable if the above are run in a virtual environment. **
 
 ## Data model
 The output of this project is two tables.   
