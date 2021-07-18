@@ -1,4 +1,4 @@
-dbt
+dbt 
 apache-airflow
 numpy
 pandas
