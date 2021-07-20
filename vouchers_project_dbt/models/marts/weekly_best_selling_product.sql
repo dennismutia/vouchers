@@ -37,13 +37,3 @@ select
     * 
 from products_ranking
 where product_rank = 1
-
-
-/*
-{% if is_incremental() %}
-
-  -- this filter will only be applied on an incremental run
-  where date::timestamp > (select max(date)::timestamp from vouchers)
-
-{% endif %}
-*/

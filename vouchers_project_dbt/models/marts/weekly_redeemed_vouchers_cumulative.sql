@@ -38,13 +38,3 @@ select
     *,
     sum(no_of_redeemed_vouchers) over( order by week_of_year ) as no_of_redeemed_vouchers_cumulative
 from weekly_redemptions
-
-
-/*
-{% if is_incremental() %}
-
-  -- this filter will only be applied on an incremental run
-  where date::timestamp > (select max(date)::timestamp from vouchers)
-
-{% endif %}
-*/
