@@ -1,24 +1,15 @@
+/******************************************************************************
 
-/*
-This script creates a vouchers table with clean columns for analysis
+Description:    Calculates the number of unique users per week
+Returns:        A table containing the number of unique users per week
 
-input
---------
-stg_vouchers table - staging table containing raw dataset from json files
+******************************************************************************/
 
-output
---------
-vouchers table - table with clean vouchers data
-
-*/
-
-/*
 {{
     config(
         materialized='incremental'
     )
 }}
-*/
 
 with users as (
     select 
@@ -40,12 +31,3 @@ select
     count(distinct user_id) as no_of_users
 from users
 group by year, month, week_of_year
-
-/*
-{% if is_incremental() %}
-
-  -- this filter will only be applied on an incremental run
-  where date::timestamp > (select max(date)::timestamp from vouchers)
-
-{% endif %}
-*/

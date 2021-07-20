@@ -1,16 +1,9 @@
+/******************************************************************************
 
-/*
-This script creates a vouchers table with clean columns for analysis
+Description:    Calculates the weekly best selling product
+Returns:        A table containing the best selling product each
 
-input
---------
-stg_vouchers table - staging table containing raw dataset from json files
-
-output
---------
-vouchers table - table with clean vouchers data
-
-*/
+******************************************************************************/
 
 
 {{

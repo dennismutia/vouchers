@@ -1,24 +1,16 @@
+/******************************************************************************
 
-/*
-This script creates a vouchers table with clean columns for analysis
+Description:    Calculates number of redeemed vouchers per week
+Returns:        A table containing the number of redeemed vouchers per week
 
-input
---------
-stg_vouchers table - staging table containing raw dataset from json files
+******************************************************************************/
 
-output
---------
-vouchers table - table with clean vouchers data
-
-*/
-
-/*
 {{
     config(
-        materialized='incremental'
+        materialized='table'
     )
 }}
-*/
+
 
 with redeemed_vouchers as (
     select 
@@ -41,12 +33,3 @@ select
     count(distinct voucher_code) as no_of_redeemed_vouchers
 from redeemed_vouchers
 group by year, month, week_of_year
-
-/*
-{% if is_incremental() %}
-
-  -- this filter will only be applied on an incremental run
-  where date::timestamp > (select max(date)::timestamp from vouchers)
-
-{% endif %}
-*/
