@@ -2,3 +2,6 @@
 
 #notebooks for testing scripts
 temp.ipynb 
+
+# sql file for testing sql before moving it to dbt
+vouchers_project_dbt/sql_tests.sql
