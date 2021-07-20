@@ -14,6 +14,7 @@ Returns:        A table containing the best selling product each
 
 
 with products_summary as (
+    -- calculate the number of products per week
     select 
         year,
         month_name as month,
@@ -28,6 +29,7 @@ with products_summary as (
     group by year, month_name, week_of_year, product
 ),
 products_ranking as (
+    -- rank the products by no_of_vouchers in descending order
     select 
         *,
         rank() over (partition by week_of_year order by no_of_vouchers desc) as product_rank
