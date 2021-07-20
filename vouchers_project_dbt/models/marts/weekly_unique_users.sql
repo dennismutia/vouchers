@@ -21,4 +21,4 @@ count(distinct user_id) as no_of_users
 from {{ ref('master_calendar') }} m
 left join public.vouchers  v
     on m.date = v.date
-group by year, month, week_of_year
+group by year, month_name, week_of_year
