@@ -1,0 +1,266 @@
+[2021-07-23 16:19:55,831] {scheduler_job.py:181} INFO - Started process (PID=797) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:19:55,832] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:19:55,833] {logging_mixin.py:104} INFO - [2021-07-23 16:19:55,832] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:19:55,844] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:19:56,105] {logging_mixin.py:104} INFO - [2021-07-23 16:19:56,104] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:19:56,114] {logging_mixin.py:104} INFO - [2021-07-23 16:19:56,113] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:19:56,125] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.296 seconds
+[2021-07-23 16:19:59,145] {scheduler_job.py:181} INFO - Started process (PID=860) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:19:59,146] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:19:59,146] {logging_mixin.py:104} INFO - [2021-07-23 16:19:59,146] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:19:59,157] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:19:59,172] {logging_mixin.py:104} INFO - [2021-07-23 16:19:59,172] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:19:59,225] {logging_mixin.py:104} INFO - [2021-07-23 16:19:59,224] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:19:59,234] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.091 seconds
+[2021-07-23 16:20:00,935] {scheduler_job.py:181} INFO - Started process (PID=920) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:00,936] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:20:00,937] {logging_mixin.py:104} INFO - [2021-07-23 16:20:00,937] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:00,951] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:00,968] {logging_mixin.py:104} INFO - [2021-07-23 16:20:00,968] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:01,029] {logging_mixin.py:104} INFO - [2021-07-23 16:20:01,028] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:20:01,037] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.105 seconds
+[2021-07-23 16:20:02,990] {scheduler_job.py:181} INFO - Started process (PID=1023) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:02,991] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:20:02,992] {logging_mixin.py:104} INFO - [2021-07-23 16:20:02,992] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:03,004] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:03,021] {logging_mixin.py:104} INFO - [2021-07-23 16:20:03,021] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:03,074] {logging_mixin.py:104} INFO - [2021-07-23 16:20:03,074] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:20:03,086] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.099 seconds
+[2021-07-23 16:20:04,912] {scheduler_job.py:181} INFO - Started process (PID=1091) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:04,914] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:20:04,914] {logging_mixin.py:104} INFO - [2021-07-23 16:20:04,914] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:04,929] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:04,994] {logging_mixin.py:104} INFO - [2021-07-23 16:20:04,994] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:05,005] {logging_mixin.py:104} INFO - [2021-07-23 16:20:05,005] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:20:05,016] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.108 seconds
+[2021-07-23 16:20:06,712] {scheduler_job.py:181} INFO - Started process (PID=1151) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:06,714] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:20:06,715] {logging_mixin.py:104} INFO - [2021-07-23 16:20:06,715] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:06,729] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:06,792] {logging_mixin.py:104} INFO - [2021-07-23 16:20:06,792] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:06,804] {logging_mixin.py:104} INFO - [2021-07-23 16:20:06,804] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:20:06,814] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.104 seconds
+[2021-07-23 16:20:08,773] {scheduler_job.py:181} INFO - Started process (PID=1232) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:08,774] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:20:08,774] {logging_mixin.py:104} INFO - [2021-07-23 16:20:08,774] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:08,788] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:08,853] {logging_mixin.py:104} INFO - [2021-07-23 16:20:08,853] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:08,868] {logging_mixin.py:104} INFO - [2021-07-23 16:20:08,868] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:20:08,884] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.113 seconds
+[2021-07-23 16:20:10,759] {scheduler_job.py:181} INFO - Started process (PID=1294) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:10,760] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:20:10,761] {logging_mixin.py:104} INFO - [2021-07-23 16:20:10,761] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:10,775] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:10,840] {logging_mixin.py:104} INFO - [2021-07-23 16:20:10,840] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:10,851] {logging_mixin.py:104} INFO - [2021-07-23 16:20:10,851] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:20:10,861] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.105 seconds
+[2021-07-23 16:20:12,667] {scheduler_job.py:181} INFO - Started process (PID=1356) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:12,673] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:20:12,678] {logging_mixin.py:104} INFO - [2021-07-23 16:20:12,678] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:12,696] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:12,773] {logging_mixin.py:104} INFO - [2021-07-23 16:20:12,773] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:12,799] {logging_mixin.py:104} INFO - [2021-07-23 16:20:12,799] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:20:12,811] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.147 seconds
+[2021-07-23 16:20:15,020] {scheduler_job.py:181} INFO - Started process (PID=1416) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:15,021] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:20:15,021] {logging_mixin.py:104} INFO - [2021-07-23 16:20:15,021] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:15,036] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:15,119] {logging_mixin.py:104} INFO - [2021-07-23 16:20:15,119] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:15,137] {logging_mixin.py:104} INFO - [2021-07-23 16:20:15,137] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:20:15,150] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.133 seconds
+[2021-07-23 16:20:17,437] {scheduler_job.py:181} INFO - Started process (PID=1476) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:17,439] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:20:17,442] {logging_mixin.py:104} INFO - [2021-07-23 16:20:17,442] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:17,457] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:17,533] {logging_mixin.py:104} INFO - [2021-07-23 16:20:17,533] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:17,547] {logging_mixin.py:104} INFO - [2021-07-23 16:20:17,547] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:20:17,558] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.127 seconds
+[2021-07-23 16:20:19,772] {scheduler_job.py:181} INFO - Started process (PID=1536) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:19,785] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:20:19,786] {logging_mixin.py:104} INFO - [2021-07-23 16:20:19,786] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:19,819] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:19,920] {logging_mixin.py:104} INFO - [2021-07-23 16:20:19,920] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:19,932] {logging_mixin.py:104} INFO - [2021-07-23 16:20:19,931] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:20:19,944] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.175 seconds
+[2021-07-23 16:20:22,122] {scheduler_job.py:181} INFO - Started process (PID=1597) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:22,126] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:20:22,127] {logging_mixin.py:104} INFO - [2021-07-23 16:20:22,127] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:22,142] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:22,231] {logging_mixin.py:104} INFO - [2021-07-23 16:20:22,231] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:22,261] {logging_mixin.py:104} INFO - [2021-07-23 16:20:22,261] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:20:22,290] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.172 seconds
+[2021-07-23 16:20:25,032] {scheduler_job.py:181} INFO - Started process (PID=1661) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:25,036] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:20:25,041] {logging_mixin.py:104} INFO - [2021-07-23 16:20:25,041] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:25,061] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:25,146] {logging_mixin.py:104} INFO - [2021-07-23 16:20:25,146] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:25,168] {logging_mixin.py:104} INFO - [2021-07-23 16:20:25,168] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:20:25,183] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.155 seconds
+[2021-07-23 16:20:28,235] {scheduler_job.py:181} INFO - Started process (PID=1723) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:28,242] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:20:28,252] {logging_mixin.py:104} INFO - [2021-07-23 16:20:28,251] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:28,275] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:28,396] {logging_mixin.py:104} INFO - [2021-07-23 16:20:28,396] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:28,421] {logging_mixin.py:104} INFO - [2021-07-23 16:20:28,420] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:20:28,452] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.221 seconds
+[2021-07-23 16:20:37,138] {scheduler_job.py:181} INFO - Started process (PID=1793) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:37,140] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:20:37,145] {logging_mixin.py:104} INFO - [2021-07-23 16:20:37,145] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:37,175] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:37,504] {logging_mixin.py:104} INFO - [2021-07-23 16:20:37,504] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:37,540] {logging_mixin.py:104} INFO - [2021-07-23 16:20:37,540] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:20:37,567] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.435 seconds
+[2021-07-23 16:20:43,109] {scheduler_job.py:181} INFO - Started process (PID=1863) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:43,110] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:20:43,137] {logging_mixin.py:104} INFO - [2021-07-23 16:20:43,137] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:43,275] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:43,484] {logging_mixin.py:104} INFO - [2021-07-23 16:20:43,484] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:43,510] {logging_mixin.py:104} INFO - [2021-07-23 16:20:43,510] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:20:43,564] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.486 seconds
+[2021-07-23 16:20:50,794] {scheduler_job.py:181} INFO - Started process (PID=1925) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:50,795] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:20:50,796] {logging_mixin.py:104} INFO - [2021-07-23 16:20:50,795] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:50,845] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:51,057] {logging_mixin.py:104} INFO - [2021-07-23 16:20:51,057] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:51,090] {logging_mixin.py:104} INFO - [2021-07-23 16:20:51,090] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:20:51,115] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.326 seconds
+[2021-07-23 16:20:56,059] {scheduler_job.py:181} INFO - Started process (PID=1984) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:56,061] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:20:56,066] {logging_mixin.py:104} INFO - [2021-07-23 16:20:56,066] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:56,114] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:56,236] {logging_mixin.py:104} INFO - [2021-07-23 16:20:56,236] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:56,257] {logging_mixin.py:104} INFO - [2021-07-23 16:20:56,257] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:20:56,282] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.244 seconds
+[2021-07-23 16:20:59,612] {scheduler_job.py:181} INFO - Started process (PID=2045) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:59,613] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:20:59,614] {logging_mixin.py:104} INFO - [2021-07-23 16:20:59,614] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:59,632] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:20:59,723] {logging_mixin.py:104} INFO - [2021-07-23 16:20:59,723] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:59,738] {logging_mixin.py:104} INFO - [2021-07-23 16:20:59,738] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:20:59,750] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.142 seconds
+[2021-07-23 16:21:03,786] {scheduler_job.py:181} INFO - Started process (PID=2105) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:03,787] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:21:03,788] {logging_mixin.py:104} INFO - [2021-07-23 16:21:03,788] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:03,806] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:03,890] {logging_mixin.py:104} INFO - [2021-07-23 16:21:03,890] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:03,903] {logging_mixin.py:104} INFO - [2021-07-23 16:21:03,903] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:21:03,913] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.134 seconds
+[2021-07-23 16:21:06,284] {scheduler_job.py:181} INFO - Started process (PID=2165) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:06,289] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:21:06,296] {logging_mixin.py:104} INFO - [2021-07-23 16:21:06,296] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:06,330] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:06,456] {logging_mixin.py:104} INFO - [2021-07-23 16:21:06,455] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:06,473] {logging_mixin.py:104} INFO - [2021-07-23 16:21:06,473] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:21:06,488] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.207 seconds
+[2021-07-23 16:21:09,289] {scheduler_job.py:181} INFO - Started process (PID=2247) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:09,290] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:21:09,291] {logging_mixin.py:104} INFO - [2021-07-23 16:21:09,291] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:09,308] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:09,423] {logging_mixin.py:104} INFO - [2021-07-23 16:21:09,423] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:09,450] {logging_mixin.py:104} INFO - [2021-07-23 16:21:09,450] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:21:09,564] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.279 seconds
+[2021-07-23 16:21:12,273] {scheduler_job.py:181} INFO - Started process (PID=2337) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:12,277] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:21:12,279] {logging_mixin.py:104} INFO - [2021-07-23 16:21:12,279] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:12,297] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:12,399] {logging_mixin.py:104} INFO - [2021-07-23 16:21:12,398] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:12,414] {logging_mixin.py:104} INFO - [2021-07-23 16:21:12,414] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:21:12,425] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.155 seconds
+[2021-07-23 16:21:14,682] {scheduler_job.py:181} INFO - Started process (PID=2397) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:14,683] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:21:14,684] {logging_mixin.py:104} INFO - [2021-07-23 16:21:14,684] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:14,703] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:14,811] {logging_mixin.py:104} INFO - [2021-07-23 16:21:14,811] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:14,853] {logging_mixin.py:104} INFO - [2021-07-23 16:21:14,853] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:21:14,885] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.209 seconds
+[2021-07-23 16:21:17,108] {scheduler_job.py:181} INFO - Started process (PID=2457) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:17,112] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:21:17,115] {logging_mixin.py:104} INFO - [2021-07-23 16:21:17,115] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:17,133] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:17,236] {logging_mixin.py:104} INFO - [2021-07-23 16:21:17,236] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:17,251] {logging_mixin.py:104} INFO - [2021-07-23 16:21:17,251] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:21:17,266] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.162 seconds
+[2021-07-23 16:21:19,375] {scheduler_job.py:181} INFO - Started process (PID=2517) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:19,376] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:21:19,377] {logging_mixin.py:104} INFO - [2021-07-23 16:21:19,377] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:19,393] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:19,477] {logging_mixin.py:104} INFO - [2021-07-23 16:21:19,477] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:19,496] {logging_mixin.py:104} INFO - [2021-07-23 16:21:19,496] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:21:19,514] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.142 seconds
+[2021-07-23 16:21:21,907] {scheduler_job.py:181} INFO - Started process (PID=2577) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:21,909] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:21:21,912] {logging_mixin.py:104} INFO - [2021-07-23 16:21:21,912] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:21,933] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:22,017] {logging_mixin.py:104} INFO - [2021-07-23 16:21:22,017] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:22,033] {logging_mixin.py:104} INFO - [2021-07-23 16:21:22,033] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:21:22,044] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.140 seconds
+[2021-07-23 16:21:24,361] {scheduler_job.py:181} INFO - Started process (PID=2637) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:24,363] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:21:24,366] {logging_mixin.py:104} INFO - [2021-07-23 16:21:24,365] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:24,381] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:24,484] {logging_mixin.py:104} INFO - [2021-07-23 16:21:24,484] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:24,498] {logging_mixin.py:104} INFO - [2021-07-23 16:21:24,498] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:21:24,510] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.153 seconds
+[2021-07-23 16:21:26,851] {scheduler_job.py:181} INFO - Started process (PID=2717) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:26,853] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:21:26,854] {logging_mixin.py:104} INFO - [2021-07-23 16:21:26,854] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:26,920] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:26,968] {logging_mixin.py:104} INFO - [2021-07-23 16:21:26,967] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:26,982] {logging_mixin.py:104} INFO - [2021-07-23 16:21:26,982] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:21:26,993] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.145 seconds
+[2021-07-23 16:21:29,454] {scheduler_job.py:181} INFO - Started process (PID=2778) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:29,457] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:21:29,459] {logging_mixin.py:104} INFO - [2021-07-23 16:21:29,459] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:29,535] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:29,575] {logging_mixin.py:104} INFO - [2021-07-23 16:21:29,575] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:29,593] {logging_mixin.py:104} INFO - [2021-07-23 16:21:29,592] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:21:29,612] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.161 seconds
+[2021-07-23 16:21:32,175] {scheduler_job.py:181} INFO - Started process (PID=2838) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:32,178] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:21:32,179] {logging_mixin.py:104} INFO - [2021-07-23 16:21:32,179] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:32,263] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:32,292] {logging_mixin.py:104} INFO - [2021-07-23 16:21:32,292] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:32,308] {logging_mixin.py:104} INFO - [2021-07-23 16:21:32,308] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:21:32,324] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.152 seconds
+[2021-07-23 16:21:35,508] {scheduler_job.py:181} INFO - Started process (PID=2898) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:35,514] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:21:35,520] {logging_mixin.py:104} INFO - [2021-07-23 16:21:35,520] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:35,634] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:35,674] {logging_mixin.py:104} INFO - [2021-07-23 16:21:35,674] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:35,694] {logging_mixin.py:104} INFO - [2021-07-23 16:21:35,694] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:21:35,711] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.207 seconds
+[2021-07-23 16:21:38,573] {scheduler_job.py:181} INFO - Started process (PID=2958) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:38,576] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:21:38,577] {logging_mixin.py:104} INFO - [2021-07-23 16:21:38,576] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:38,649] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:38,671] {logging_mixin.py:104} INFO - [2021-07-23 16:21:38,671] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:38,683] {logging_mixin.py:104} INFO - [2021-07-23 16:21:38,683] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:21:38,699] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.130 seconds
+[2021-07-23 16:21:41,232] {scheduler_job.py:181} INFO - Started process (PID=3018) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:41,234] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:21:41,235] {logging_mixin.py:104} INFO - [2021-07-23 16:21:41,235] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:41,319] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:41,352] {logging_mixin.py:104} INFO - [2021-07-23 16:21:41,352] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:41,368] {logging_mixin.py:104} INFO - [2021-07-23 16:21:41,368] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:21:41,400] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.173 seconds
+[2021-07-23 16:21:45,534] {scheduler_job.py:181} INFO - Started process (PID=3078) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:45,535] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:21:45,536] {logging_mixin.py:104} INFO - [2021-07-23 16:21:45,535] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:45,615] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:45,642] {logging_mixin.py:104} INFO - [2021-07-23 16:21:45,642] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:45,672] {logging_mixin.py:104} INFO - [2021-07-23 16:21:45,672] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:21:45,710] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.179 seconds
+[2021-07-23 16:21:49,228] {scheduler_job.py:181} INFO - Started process (PID=3139) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:49,233] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:21:49,235] {logging_mixin.py:104} INFO - [2021-07-23 16:21:49,235] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:49,339] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:49,367] {logging_mixin.py:104} INFO - [2021-07-23 16:21:49,367] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:49,388] {logging_mixin.py:104} INFO - [2021-07-23 16:21:49,388] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:21:49,411] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.186 seconds
+[2021-07-23 16:21:52,711] {scheduler_job.py:181} INFO - Started process (PID=3199) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:52,713] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2021-07-23 16:21:52,714] {logging_mixin.py:104} INFO - [2021-07-23 16:21:52,714] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:52,851] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2021-07-23 16:21:52,885] {logging_mixin.py:104} INFO - [2021-07-23 16:21:52,885] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:52,910] {logging_mixin.py:104} INFO - [2021-07-23 16:21:52,910] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_target_dag to None
+[2021-07-23 16:21:52,957] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.250 seconds

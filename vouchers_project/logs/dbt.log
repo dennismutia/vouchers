@@ -1,0 +1,447 @@
+2021-07-22 16:06:18.850926 (MainThread): Running with dbt=0.19.2
+2021-07-22 16:06:18.943592 (MainThread): running dbt with arguments Namespace(cls=<class 'dbt.task.run.RunTask'>, debug=False, defer=None, exclude=None, fail_fast=False, full_refresh=False, log_cache_events=False, log_format='default', models=None, partial_parse=None, profile=None, profiles_dir='/home/dennismutia/.dbt', project_dir=None, record_timing_info=None, rpc_method='run', selector_name=None, single_threaded=False, state=None, strict=False, target=None, test_new_parser=False, threads=None, use_cache=True, use_colors=None, vars='{}', version_check=True, warn_error=False, which='run', write_json=True)
+2021-07-22 16:06:18.944421 (MainThread): Tracking: tracking
+2021-07-22 16:06:18.963118 (MainThread): Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7f114bc580>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7f114fdac0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7f114fdc40>]}
+2021-07-22 16:06:18.977941 (MainThread): Partial parsing not enabled
+2021-07-22 16:06:18.980458 (MainThread): Parsing macros/adapters.sql
+2021-07-22 16:06:19.006484 (MainThread): Parsing macros/catalog.sql
+2021-07-22 16:06:19.009639 (MainThread): Parsing macros/relations.sql
+2021-07-22 16:06:19.012576 (MainThread): Parsing macros/materializations/snapshot_merge.sql
+2021-07-22 16:06:19.021571 (MainThread): Parsing macros/core.sql
+2021-07-22 16:06:19.030196 (MainThread): Parsing macros/adapters/common.sql
+2021-07-22 16:06:19.094738 (MainThread): Parsing macros/etc/get_custom_schema.sql
+2021-07-22 16:06:19.097524 (MainThread): Parsing macros/etc/get_custom_database.sql
+2021-07-22 16:06:19.100510 (MainThread): Parsing macros/etc/datetime.sql
+2021-07-22 16:06:19.109996 (MainThread): Parsing macros/etc/is_incremental.sql
+2021-07-22 16:06:19.113085 (MainThread): Parsing macros/etc/query.sql
+2021-07-22 16:06:19.115607 (MainThread): Parsing macros/etc/get_custom_alias.sql
+2021-07-22 16:06:19.119907 (MainThread): Parsing macros/materializations/helpers.sql
+2021-07-22 16:06:19.134539 (MainThread): Parsing macros/materializations/seed/seed.sql
+2021-07-22 16:06:19.177053 (MainThread): Parsing macros/materializations/snapshot/snapshot_merge.sql
+2021-07-22 16:06:19.179677 (MainThread): Parsing macros/materializations/snapshot/snapshot.sql
+2021-07-22 16:06:19.213348 (MainThread): Parsing macros/materializations/snapshot/strategies.sql
+2021-07-22 16:06:19.235326 (MainThread): Parsing macros/materializations/incremental/incremental.sql
+2021-07-22 16:06:19.242122 (MainThread): Parsing macros/materializations/incremental/helpers.sql
+2021-07-22 16:06:19.244521 (MainThread): Parsing macros/materializations/common/merge.sql
+2021-07-22 16:06:19.259959 (MainThread): Parsing macros/materializations/view/create_or_replace_view.sql
+2021-07-22 16:06:19.265889 (MainThread): Parsing macros/materializations/view/view.sql
+2021-07-22 16:06:19.273002 (MainThread): Parsing macros/materializations/table/table.sql
+2021-07-22 16:06:19.280149 (MainThread): Parsing macros/schema_tests/unique.sql
+2021-07-22 16:06:19.283041 (MainThread): Parsing macros/schema_tests/not_null.sql
+2021-07-22 16:06:19.285241 (MainThread): Parsing macros/schema_tests/relationships.sql
+2021-07-22 16:06:19.290377 (MainThread): Parsing macros/schema_tests/accepted_values.sql
+2021-07-22 16:06:19.300234 (MainThread): Partial parsing not enabled
+2021-07-22 16:06:19.456104 (MainThread): Acquiring new postgres connection "model.vouchers.master_calendar".
+2021-07-22 16:06:19.470108 (MainThread): Acquiring new postgres connection "model.vouchers.vouchers".
+2021-07-22 16:06:19.550853 (MainThread): Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '2d02f91b-2116-45e7-af18-8a2f97270dcb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7f0f073bb0>]}
+2021-07-22 16:06:19.555480 (MainThread): Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '2d02f91b-2116-45e7-af18-8a2f97270dcb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7f0f0bdc10>]}
+2021-07-22 16:06:19.555895 (MainThread): Found 2 models, 5 tests, 0 snapshots, 0 analyses, 138 macros, 0 operations, 0 seed files, 0 sources, 0 exposures
+2021-07-22 16:06:19.558207 (MainThread): 
+2021-07-22 16:06:19.558759 (MainThread): Acquiring new postgres connection "master".
+2021-07-22 16:06:19.560037 (ThreadPoolExecutor-0_0): Acquiring new postgres connection "list_vouchers".
+2021-07-22 16:06:19.576301 (ThreadPoolExecutor-0_0): Using postgres connection "list_vouchers".
+2021-07-22 16:06:19.576482 (ThreadPoolExecutor-0_0): On list_vouchers: /* {"app": "dbt", "dbt_version": "0.19.2", "profile_name": "wefarm", "target_name": "dev", "connection_name": "list_vouchers"} */
+
+    select distinct nspname from pg_namespace
+  
+2021-07-22 16:06:19.576571 (ThreadPoolExecutor-0_0): Opening a new connection, currently in state init
+2021-07-22 16:06:19.584298 (ThreadPoolExecutor-0_0): SQL status: SELECT 17 in 0.01 seconds
+2021-07-22 16:06:19.587030 (ThreadPoolExecutor-0_0): On list_vouchers: Close
+2021-07-22 16:06:19.589061 (ThreadPoolExecutor-1_0): Acquiring new postgres connection "list_vouchers_public".
+2021-07-22 16:06:19.595893 (ThreadPoolExecutor-1_0): Using postgres connection "list_vouchers_public".
+2021-07-22 16:06:19.596051 (ThreadPoolExecutor-1_0): On list_vouchers_public: BEGIN
+2021-07-22 16:06:19.596136 (ThreadPoolExecutor-1_0): Opening a new connection, currently in state closed
+2021-07-22 16:06:19.601918 (ThreadPoolExecutor-1_0): SQL status: BEGIN in 0.01 seconds
+2021-07-22 16:06:19.602086 (ThreadPoolExecutor-1_0): Using postgres connection "list_vouchers_public".
+2021-07-22 16:06:19.602165 (ThreadPoolExecutor-1_0): On list_vouchers_public: /* {"app": "dbt", "dbt_version": "0.19.2", "profile_name": "wefarm", "target_name": "dev", "connection_name": "list_vouchers_public"} */
+select
+      'vouchers' as database,
+      tablename as name,
+      schemaname as schema,
+      'table' as type
+    from pg_tables
+    where schemaname ilike 'public'
+    union all
+    select
+      'vouchers' as database,
+      viewname as name,
+      schemaname as schema,
+      'view' as type
+    from pg_views
+    where schemaname ilike 'public'
+  
+2021-07-22 16:06:19.608851 (ThreadPoolExecutor-1_0): SQL status: SELECT 7 in 0.01 seconds
+2021-07-22 16:06:19.609605 (ThreadPoolExecutor-1_0): On list_vouchers_public: ROLLBACK
+2021-07-22 16:06:19.609933 (ThreadPoolExecutor-1_0): On list_vouchers_public: Close
+2021-07-22 16:06:19.614792 (MainThread): Using postgres connection "master".
+2021-07-22 16:06:19.615029 (MainThread): On master: BEGIN
+2021-07-22 16:06:19.615164 (MainThread): Opening a new connection, currently in state init
+2021-07-22 16:06:19.622960 (MainThread): SQL status: BEGIN in 0.01 seconds
+2021-07-22 16:06:19.623168 (MainThread): Using postgres connection "master".
+2021-07-22 16:06:19.623334 (MainThread): On master: /* {"app": "dbt", "dbt_version": "0.19.2", "profile_name": "wefarm", "target_name": "dev", "connection_name": "master"} */
+with relation as (
+        select
+            pg_rewrite.ev_class as class,
+            pg_rewrite.oid as id
+        from pg_rewrite
+    ),
+    class as (
+        select
+            oid as id,
+            relname as name,
+            relnamespace as schema,
+            relkind as kind
+        from pg_class
+    ),
+    dependency as (
+        select
+            pg_depend.objid as id,
+            pg_depend.refobjid as ref
+        from pg_depend
+    ),
+    schema as (
+        select
+            pg_namespace.oid as id,
+            pg_namespace.nspname as name
+        from pg_namespace
+        where nspname != 'information_schema' and nspname not like 'pg\_%'
+    ),
+    referenced as (
+        select
+            relation.id AS id,
+            referenced_class.name ,
+            referenced_class.schema ,
+            referenced_class.kind
+        from relation
+        join class as referenced_class on relation.class=referenced_class.id
+        where referenced_class.kind in ('r', 'v')
+    ),
+    relationships as (
+        select
+            referenced.name as referenced_name,
+            referenced.schema as referenced_schema_id,
+            dependent_class.name as dependent_name,
+            dependent_class.schema as dependent_schema_id,
+            referenced.kind as kind
+        from referenced
+        join dependency on referenced.id=dependency.id
+        join class as dependent_class on dependency.ref=dependent_class.id
+        where
+            (referenced.name != dependent_class.name or
+             referenced.schema != dependent_class.schema)
+    )
+
+    select
+        referenced_schema.name as referenced_schema,
+        relationships.referenced_name as referenced_name,
+        dependent_schema.name as dependent_schema,
+        relationships.dependent_name as dependent_name
+    from relationships
+    join schema as dependent_schema on relationships.dependent_schema_id=dependent_schema.id
+    join schema as referenced_schema on relationships.referenced_schema_id=referenced_schema.id
+    group by referenced_schema, referenced_name, dependent_schema, dependent_name
+    order by referenced_schema, referenced_name, dependent_schema, dependent_name;
+2021-07-22 16:06:19.649328 (MainThread): SQL status: SELECT 0 in 0.03 seconds
+2021-07-22 16:06:19.649930 (MainThread): On master: ROLLBACK
+2021-07-22 16:06:19.650959 (MainThread): Using postgres connection "master".
+2021-07-22 16:06:19.651165 (MainThread): On master: BEGIN
+2021-07-22 16:06:19.651833 (MainThread): SQL status: BEGIN in 0.00 seconds
+2021-07-22 16:06:19.652079 (MainThread): On master: COMMIT
+2021-07-22 16:06:19.652224 (MainThread): Using postgres connection "master".
+2021-07-22 16:06:19.652353 (MainThread): On master: COMMIT
+2021-07-22 16:06:19.652823 (MainThread): SQL status: COMMIT in 0.00 seconds
+2021-07-22 16:06:19.653037 (MainThread): On master: Close
+2021-07-22 16:06:19.653764 (MainThread): 19:06:19 | Concurrency: 2 threads (target='dev')
+2021-07-22 16:06:19.654047 (MainThread): 19:06:19 | 
+2021-07-22 16:06:19.657763 (Thread-1): Began running node model.vouchers.vouchers
+2021-07-22 16:06:19.658174 (Thread-1): 19:06:19 | 1 of 2 START incremental model public.vouchers....................... [RUN]
+2021-07-22 16:06:19.658712 (Thread-1): Acquiring new postgres connection "model.vouchers.vouchers".
+2021-07-22 16:06:19.658943 (Thread-1): Compiling model.vouchers.vouchers
+2021-07-22 16:06:19.667356 (Thread-1): Writing injected SQL for node "model.vouchers.vouchers"
+2021-07-22 16:06:19.667852 (Thread-1): finished collecting timing info
+2021-07-22 16:06:19.713369 (Thread-1): Using postgres connection "model.vouchers.vouchers".
+2021-07-22 16:06:19.713560 (Thread-1): On model.vouchers.vouchers: /* {"app": "dbt", "dbt_version": "0.19.2", "profile_name": "wefarm", "target_name": "dev", "node_id": "model.vouchers.vouchers"} */
+
+    
+
+  create temporary table "vouchers__dbt_tmp190619706880"
+  as (
+    /*
+This script creates a vouchers table with clean columns for analysis
+
+input
+--------
+stg_vouchers table - staging table containing raw dataset from json files
+
+output
+--------
+vouchers table - table with clean vouchers data
+
+*/
+
+
+
+select distinct 
+    user_id,
+    voucher_code,
+    product,
+    ltrim(split_part(vendor, ',', 1), '{') as country,
+    btrim(rtrim(split_part(vendor, ',', 2), '}'), '"') as vendor,
+    status,
+    date::timestamp as date
+from public.stg_vouchers
+
+
+
+  -- this filter will only be applied on an incremental run
+  where date::timestamp > (select max(date)::timestamp from vouchers)
+
+
+  );
+  
+2021-07-22 16:06:19.713647 (Thread-1): Opening a new connection, currently in state closed
+2021-07-22 16:06:19.895021 (Thread-1): SQL status: SELECT 0 in 0.18 seconds
+2021-07-22 16:06:19.901964 (Thread-1): Using postgres connection "model.vouchers.vouchers".
+2021-07-22 16:06:19.902117 (Thread-1): On model.vouchers.vouchers: BEGIN
+2021-07-22 16:06:19.902535 (Thread-1): SQL status: BEGIN in 0.00 seconds
+2021-07-22 16:06:19.902735 (Thread-1): Using postgres connection "model.vouchers.vouchers".
+2021-07-22 16:06:19.902831 (Thread-1): On model.vouchers.vouchers: /* {"app": "dbt", "dbt_version": "0.19.2", "profile_name": "wefarm", "target_name": "dev", "node_id": "model.vouchers.vouchers"} */
+
+      select
+          column_name,
+          data_type,
+          character_maximum_length,
+          numeric_precision,
+          numeric_scale
+
+      from INFORMATION_SCHEMA.columns
+      where table_name = 'vouchers__dbt_tmp190619706880'
+        
+      order by ordinal_position
+
+  
+2021-07-22 16:06:19.915018 (Thread-1): SQL status: SELECT 7 in 0.01 seconds
+2021-07-22 16:06:19.919202 (Thread-1): Using postgres connection "model.vouchers.vouchers".
+2021-07-22 16:06:19.919369 (Thread-1): On model.vouchers.vouchers: /* {"app": "dbt", "dbt_version": "0.19.2", "profile_name": "wefarm", "target_name": "dev", "node_id": "model.vouchers.vouchers"} */
+
+      select
+          column_name,
+          data_type,
+          character_maximum_length,
+          numeric_precision,
+          numeric_scale
+
+      from "vouchers".INFORMATION_SCHEMA.columns
+      where table_name = 'vouchers'
+        
+        and table_schema = 'public'
+        
+      order by ordinal_position
+
+  
+2021-07-22 16:06:19.922407 (Thread-1): SQL status: SELECT 7 in 0.00 seconds
+2021-07-22 16:06:19.927772 (Thread-1): Using postgres connection "model.vouchers.vouchers".
+2021-07-22 16:06:19.927999 (Thread-1): On model.vouchers.vouchers: /* {"app": "dbt", "dbt_version": "0.19.2", "profile_name": "wefarm", "target_name": "dev", "node_id": "model.vouchers.vouchers"} */
+
+      select
+          column_name,
+          data_type,
+          character_maximum_length,
+          numeric_precision,
+          numeric_scale
+
+      from "vouchers".INFORMATION_SCHEMA.columns
+      where table_name = 'vouchers'
+        
+        and table_schema = 'public'
+        
+      order by ordinal_position
+
+  
+2021-07-22 16:06:19.931779 (Thread-1): SQL status: SELECT 7 in 0.00 seconds
+2021-07-22 16:06:19.932924 (Thread-1): Writing runtime SQL for node "model.vouchers.vouchers"
+2021-07-22 16:06:19.933403 (Thread-1): Using postgres connection "model.vouchers.vouchers".
+2021-07-22 16:06:19.933521 (Thread-1): On model.vouchers.vouchers: /* {"app": "dbt", "dbt_version": "0.19.2", "profile_name": "wefarm", "target_name": "dev", "node_id": "model.vouchers.vouchers"} */
+
+      
+
+    insert into "vouchers"."public"."vouchers" ("user_id", "voucher_code", "product", "country", "vendor", "status", "date")
+    (
+       select "user_id", "voucher_code", "product", "country", "vendor", "status", "date"
+       from "vouchers__dbt_tmp190619706880"
+    );
+  
+2021-07-22 16:06:19.934043 (Thread-1): SQL status: INSERT 0 0 in 0.00 seconds
+2021-07-22 16:06:19.942135 (Thread-1): On model.vouchers.vouchers: COMMIT
+2021-07-22 16:06:19.942319 (Thread-1): Using postgres connection "model.vouchers.vouchers".
+2021-07-22 16:06:19.942431 (Thread-1): On model.vouchers.vouchers: COMMIT
+2021-07-22 16:06:19.944218 (Thread-1): SQL status: COMMIT in 0.00 seconds
+2021-07-22 16:06:19.944758 (Thread-1): finished collecting timing info
+2021-07-22 16:06:19.944901 (Thread-1): On model.vouchers.vouchers: Close
+2021-07-22 16:06:19.945544 (Thread-1): Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '2d02f91b-2116-45e7-af18-8a2f97270dcb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7f0ef9afa0>]}
+2021-07-22 16:06:19.946036 (Thread-1): 19:06:19 | 1 of 2 OK created incremental model public.vouchers.................. [INSERT 0 0 in 0.29s]
+2021-07-22 16:06:19.946432 (Thread-1): Finished running node model.vouchers.vouchers
+2021-07-22 16:06:19.948480 (Thread-2): Began running node model.vouchers.master_calendar
+2021-07-22 16:06:19.949169 (Thread-2): 19:06:19 | 2 of 2 START incremental model public.master_calendar................ [RUN]
+2021-07-22 16:06:19.949689 (Thread-2): Acquiring new postgres connection "model.vouchers.master_calendar".
+2021-07-22 16:06:19.949862 (Thread-2): Compiling model.vouchers.master_calendar
+2021-07-22 16:06:19.954762 (Thread-2): Writing injected SQL for node "model.vouchers.master_calendar"
+2021-07-22 16:06:19.955183 (Thread-2): finished collecting timing info
+2021-07-22 16:06:19.959951 (Thread-2): Using postgres connection "model.vouchers.master_calendar".
+2021-07-22 16:06:19.960384 (Thread-2): On model.vouchers.master_calendar: /* {"app": "dbt", "dbt_version": "0.19.2", "profile_name": "wefarm", "target_name": "dev", "node_id": "model.vouchers.master_calendar"} */
+
+    
+
+  create temporary table "master_calendar__dbt_tmp190619958577"
+  as (
+    /*
+Create a date timension with dates ranging from the minimum date in vouchers table to the maximum date in the same table.
+This will enable the creation of a gapless grid to capture any date gaps in the vouchers dataset for computations.
+
+input
+-----
+- min_date - the first date in the vouchers table from when the date dim should start
+- max_date - the last date in the vouchers table to when the date dim should end.
+
+output
+-------
+- date dim master_calendar with dates ranging from start of data to the last date of the dataset
+*/
+
+
+
+with range_values as (
+    select
+        min(date) as min_date,
+        max(date) as max_date
+    from "vouchers"."public"."vouchers" 
+),
+
+date_range as (
+    select 
+        generate_series(min_date::timestamp, max_date::timestamp, '1 day'::interval) as date
+    from range_values
+)
+
+select
+    date,
+    EXTRACT(ISODOW FROM date) AS day_of_week,
+    EXTRACT(DAY FROM date) AS day_of_month,
+    TO_CHAR(date, 'W')::INT AS week_of_month,
+    EXTRACT(WEEK FROM date) AS week_of_year,
+    EXTRACT(MONTH FROM date) AS month,
+    TO_CHAR(date, 'Month') AS month_name,
+    EXTRACT(YEAR FROM date) AS year
+from date_range
+
+
+
+  -- this filter will only be applied on an incremental run
+  where date > (select max(date)::timestamp from master_calendar)
+
+
+  );
+  
+2021-07-22 16:06:19.961001 (Thread-2): Opening a new connection, currently in state init
+2021-07-22 16:06:20.018069 (Thread-2): SQL status: SELECT 0 in 0.06 seconds
+2021-07-22 16:06:20.020109 (Thread-2): Using postgres connection "model.vouchers.master_calendar".
+2021-07-22 16:06:20.020311 (Thread-2): On model.vouchers.master_calendar: BEGIN
+2021-07-22 16:06:20.021027 (Thread-2): SQL status: BEGIN in 0.00 seconds
+2021-07-22 16:06:20.021175 (Thread-2): Using postgres connection "model.vouchers.master_calendar".
+2021-07-22 16:06:20.021253 (Thread-2): On model.vouchers.master_calendar: /* {"app": "dbt", "dbt_version": "0.19.2", "profile_name": "wefarm", "target_name": "dev", "node_id": "model.vouchers.master_calendar"} */
+
+      select
+          column_name,
+          data_type,
+          character_maximum_length,
+          numeric_precision,
+          numeric_scale
+
+      from INFORMATION_SCHEMA.columns
+      where table_name = 'master_calendar__dbt_tmp190619958577'
+        
+      order by ordinal_position
+
+  
+2021-07-22 16:06:20.027553 (Thread-2): SQL status: SELECT 8 in 0.01 seconds
+2021-07-22 16:06:20.030844 (Thread-2): Using postgres connection "model.vouchers.master_calendar".
+2021-07-22 16:06:20.031133 (Thread-2): On model.vouchers.master_calendar: /* {"app": "dbt", "dbt_version": "0.19.2", "profile_name": "wefarm", "target_name": "dev", "node_id": "model.vouchers.master_calendar"} */
+
+      select
+          column_name,
+          data_type,
+          character_maximum_length,
+          numeric_precision,
+          numeric_scale
+
+      from "vouchers".INFORMATION_SCHEMA.columns
+      where table_name = 'master_calendar'
+        
+        and table_schema = 'public'
+        
+      order by ordinal_position
+
+  
+2021-07-22 16:06:20.035121 (Thread-2): SQL status: SELECT 8 in 0.00 seconds
+2021-07-22 16:06:20.037388 (Thread-2): Using postgres connection "model.vouchers.master_calendar".
+2021-07-22 16:06:20.037545 (Thread-2): On model.vouchers.master_calendar: /* {"app": "dbt", "dbt_version": "0.19.2", "profile_name": "wefarm", "target_name": "dev", "node_id": "model.vouchers.master_calendar"} */
+
+      select
+          column_name,
+          data_type,
+          character_maximum_length,
+          numeric_precision,
+          numeric_scale
+
+      from "vouchers".INFORMATION_SCHEMA.columns
+      where table_name = 'master_calendar'
+        
+        and table_schema = 'public'
+        
+      order by ordinal_position
+
+  
+2021-07-22 16:06:20.040341 (Thread-2): SQL status: SELECT 8 in 0.00 seconds
+2021-07-22 16:06:20.041442 (Thread-2): Writing runtime SQL for node "model.vouchers.master_calendar"
+2021-07-22 16:06:20.041766 (Thread-2): Using postgres connection "model.vouchers.master_calendar".
+2021-07-22 16:06:20.041898 (Thread-2): On model.vouchers.master_calendar: /* {"app": "dbt", "dbt_version": "0.19.2", "profile_name": "wefarm", "target_name": "dev", "node_id": "model.vouchers.master_calendar"} */
+
+      
+
+    insert into "vouchers"."public"."master_calendar" ("date", "day_of_week", "day_of_month", "week_of_month", "week_of_year", "month", "month_name", "year")
+    (
+       select "date", "day_of_week", "day_of_month", "week_of_month", "week_of_year", "month", "month_name", "year"
+       from "master_calendar__dbt_tmp190619958577"
+    );
+  
+2021-07-22 16:06:20.042526 (Thread-2): SQL status: INSERT 0 0 in 0.00 seconds
+2021-07-22 16:06:20.044075 (Thread-2): On model.vouchers.master_calendar: COMMIT
+2021-07-22 16:06:20.044285 (Thread-2): Using postgres connection "model.vouchers.master_calendar".
+2021-07-22 16:06:20.044403 (Thread-2): On model.vouchers.master_calendar: COMMIT
+2021-07-22 16:06:20.049484 (Thread-2): SQL status: COMMIT in 0.00 seconds
+2021-07-22 16:06:20.050322 (Thread-2): finished collecting timing info
+2021-07-22 16:06:20.050591 (Thread-2): On model.vouchers.master_calendar: Close
+2021-07-22 16:06:20.051305 (Thread-2): Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '2d02f91b-2116-45e7-af18-8a2f97270dcb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7f0ef7b5b0>]}
+2021-07-22 16:06:20.051811 (Thread-2): 19:06:20 | 2 of 2 OK created incremental model public.master_calendar........... [INSERT 0 0 in 0.10s]
+2021-07-22 16:06:20.052084 (Thread-2): Finished running node model.vouchers.master_calendar
+2021-07-22 16:06:20.054046 (MainThread): Acquiring new postgres connection "master".
+2021-07-22 16:06:20.054260 (MainThread): Using postgres connection "master".
+2021-07-22 16:06:20.054359 (MainThread): On master: BEGIN
+2021-07-22 16:06:20.054446 (MainThread): Opening a new connection, currently in state closed
+2021-07-22 16:06:20.059963 (MainThread): SQL status: BEGIN in 0.01 seconds
+2021-07-22 16:06:20.060159 (MainThread): On master: COMMIT
+2021-07-22 16:06:20.060245 (MainThread): Using postgres connection "master".
+2021-07-22 16:06:20.060316 (MainThread): On master: COMMIT
+2021-07-22 16:06:20.060578 (MainThread): SQL status: COMMIT in 0.00 seconds
+2021-07-22 16:06:20.060754 (MainThread): On master: Close
+2021-07-22 16:06:20.061374 (MainThread): 19:06:20 | 
+2021-07-22 16:06:20.061613 (MainThread): 19:06:20 | Finished running 2 incremental models in 0.50s.
+2021-07-22 16:06:20.061772 (MainThread): Connection 'master' was properly closed.
+2021-07-22 16:06:20.062083 (MainThread): Connection 'model.vouchers.vouchers' was properly closed.
+2021-07-22 16:06:20.062264 (MainThread): Connection 'model.vouchers.master_calendar' was properly closed.
+2021-07-22 16:06:20.066822 (MainThread): 
+2021-07-22 16:06:20.067083 (MainThread): Completed successfully
+2021-07-22 16:06:20.067290 (MainThread): 
+Done. PASS=2 WARN=0 ERROR=0 SKIP=0 TOTAL=2
+2021-07-22 16:06:20.067538 (MainThread): Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7f10ee8760>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7f0efcbc40>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f7f0efcbca0>]}
+2021-07-22 16:06:20.067809 (MainThread): Flushing usage events

@@ -1,0 +1,266 @@
+[2021-07-23 16:19:54,441] {scheduler_job.py:181} INFO - Started process (PID=778) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:19:54,442] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:19:54,443] {logging_mixin.py:104} INFO - [2021-07-23 16:19:54,443] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:19:54,463] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:19:54,673] {logging_mixin.py:104} INFO - [2021-07-23 16:19:54,673] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:19:54,683] {logging_mixin.py:104} INFO - [2021-07-23 16:19:54,683] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:19:54,694] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.259 seconds
+[2021-07-23 16:19:58,636] {scheduler_job.py:181} INFO - Started process (PID=842) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:19:58,637] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:19:58,638] {logging_mixin.py:104} INFO - [2021-07-23 16:19:58,638] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:19:58,649] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:19:58,663] {logging_mixin.py:104} INFO - [2021-07-23 16:19:58,663] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:19:58,708] {logging_mixin.py:104} INFO - [2021-07-23 16:19:58,708] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:19:58,717] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.083 seconds
+[2021-07-23 16:20:00,375] {scheduler_job.py:181} INFO - Started process (PID=902) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:00,376] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:20:00,376] {logging_mixin.py:104} INFO - [2021-07-23 16:20:00,376] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:00,387] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:00,424] {logging_mixin.py:104} INFO - [2021-07-23 16:20:00,423] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:00,493] {logging_mixin.py:104} INFO - [2021-07-23 16:20:00,493] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:00,509] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.137 seconds
+[2021-07-23 16:20:02,391] {scheduler_job.py:181} INFO - Started process (PID=1005) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:02,392] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:20:02,393] {logging_mixin.py:104} INFO - [2021-07-23 16:20:02,393] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:02,406] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:02,423] {logging_mixin.py:104} INFO - [2021-07-23 16:20:02,423] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:02,483] {logging_mixin.py:104} INFO - [2021-07-23 16:20:02,483] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:02,496] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.107 seconds
+[2021-07-23 16:20:04,371] {scheduler_job.py:181} INFO - Started process (PID=1073) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:04,372] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:20:04,373] {logging_mixin.py:104} INFO - [2021-07-23 16:20:04,372] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:04,390] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:04,412] {logging_mixin.py:104} INFO - [2021-07-23 16:20:04,412] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:04,469] {logging_mixin.py:104} INFO - [2021-07-23 16:20:04,468] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:04,477] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.112 seconds
+[2021-07-23 16:20:06,135] {scheduler_job.py:181} INFO - Started process (PID=1133) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:06,138] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:20:06,139] {logging_mixin.py:104} INFO - [2021-07-23 16:20:06,139] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:06,149] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:06,169] {logging_mixin.py:104} INFO - [2021-07-23 16:20:06,169] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:06,236] {logging_mixin.py:104} INFO - [2021-07-23 16:20:06,235] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:06,244] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.112 seconds
+[2021-07-23 16:20:08,211] {scheduler_job.py:181} INFO - Started process (PID=1194) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:08,212] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:20:08,212] {logging_mixin.py:104} INFO - [2021-07-23 16:20:08,212] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:08,225] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:08,252] {logging_mixin.py:104} INFO - [2021-07-23 16:20:08,252] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:08,309] {logging_mixin.py:104} INFO - [2021-07-23 16:20:08,309] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:08,327] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.118 seconds
+[2021-07-23 16:20:10,142] {scheduler_job.py:181} INFO - Started process (PID=1276) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:10,143] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:20:10,143] {logging_mixin.py:104} INFO - [2021-07-23 16:20:10,143] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:10,153] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:10,179] {logging_mixin.py:104} INFO - [2021-07-23 16:20:10,179] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:10,234] {logging_mixin.py:104} INFO - [2021-07-23 16:20:10,234] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:10,249] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.109 seconds
+[2021-07-23 16:20:12,034] {scheduler_job.py:181} INFO - Started process (PID=1338) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:12,035] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:20:12,036] {logging_mixin.py:104} INFO - [2021-07-23 16:20:12,036] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:12,050] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:12,080] {logging_mixin.py:104} INFO - [2021-07-23 16:20:12,080] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:12,141] {logging_mixin.py:104} INFO - [2021-07-23 16:20:12,141] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:12,153] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.121 seconds
+[2021-07-23 16:20:14,258] {scheduler_job.py:181} INFO - Started process (PID=1398) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:14,262] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:20:14,263] {logging_mixin.py:104} INFO - [2021-07-23 16:20:14,263] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:14,279] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:14,301] {logging_mixin.py:104} INFO - [2021-07-23 16:20:14,301] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:14,378] {logging_mixin.py:104} INFO - [2021-07-23 16:20:14,378] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:14,391] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.136 seconds
+[2021-07-23 16:20:16,652] {scheduler_job.py:181} INFO - Started process (PID=1458) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:16,654] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:20:16,654] {logging_mixin.py:104} INFO - [2021-07-23 16:20:16,654] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:16,669] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:16,699] {logging_mixin.py:104} INFO - [2021-07-23 16:20:16,699] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:16,780] {logging_mixin.py:104} INFO - [2021-07-23 16:20:16,780] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:16,852] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.204 seconds
+[2021-07-23 16:20:19,022] {scheduler_job.py:181} INFO - Started process (PID=1518) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:19,023] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:20:19,024] {logging_mixin.py:104} INFO - [2021-07-23 16:20:19,024] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:19,038] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:19,067] {logging_mixin.py:104} INFO - [2021-07-23 16:20:19,067] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:19,138] {logging_mixin.py:104} INFO - [2021-07-23 16:20:19,138] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:19,149] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.131 seconds
+[2021-07-23 16:20:21,345] {scheduler_job.py:181} INFO - Started process (PID=1578) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:21,348] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:20:21,352] {logging_mixin.py:104} INFO - [2021-07-23 16:20:21,352] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:21,382] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:21,421] {logging_mixin.py:104} INFO - [2021-07-23 16:20:21,421] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:21,502] {logging_mixin.py:104} INFO - [2021-07-23 16:20:21,502] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:21,515] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.172 seconds
+[2021-07-23 16:20:24,139] {scheduler_job.py:181} INFO - Started process (PID=1643) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:24,141] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:20:24,141] {logging_mixin.py:104} INFO - [2021-07-23 16:20:24,141] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:24,157] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:24,188] {logging_mixin.py:104} INFO - [2021-07-23 16:20:24,188] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:24,280] {logging_mixin.py:104} INFO - [2021-07-23 16:20:24,280] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:24,299] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.164 seconds
+[2021-07-23 16:20:26,952] {scheduler_job.py:181} INFO - Started process (PID=1704) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:26,965] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:20:26,974] {logging_mixin.py:104} INFO - [2021-07-23 16:20:26,974] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:27,003] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:27,121] {logging_mixin.py:104} INFO - [2021-07-23 16:20:27,121] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:27,150] {logging_mixin.py:104} INFO - [2021-07-23 16:20:27,150] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:27,175] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.232 seconds
+[2021-07-23 16:20:33,517] {scheduler_job.py:181} INFO - Started process (PID=1767) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:33,519] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:20:33,519] {logging_mixin.py:104} INFO - [2021-07-23 16:20:33,519] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:33,611] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:33,915] {logging_mixin.py:104} INFO - [2021-07-23 16:20:33,915] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:33,956] {logging_mixin.py:104} INFO - [2021-07-23 16:20:33,956] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:33,994] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.493 seconds
+[2021-07-23 16:20:41,275] {scheduler_job.py:181} INFO - Started process (PID=1843) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:41,289] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:20:41,296] {logging_mixin.py:104} INFO - [2021-07-23 16:20:41,296] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:41,330] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:41,499] {logging_mixin.py:104} INFO - [2021-07-23 16:20:41,499] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:41,534] {logging_mixin.py:104} INFO - [2021-07-23 16:20:41,534] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:41,572] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.300 seconds
+[2021-07-23 16:20:48,455] {scheduler_job.py:181} INFO - Started process (PID=1906) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:48,480] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:20:48,481] {logging_mixin.py:104} INFO - [2021-07-23 16:20:48,481] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:48,536] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:48,858] {logging_mixin.py:104} INFO - [2021-07-23 16:20:48,858] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:48,888] {logging_mixin.py:104} INFO - [2021-07-23 16:20:48,888] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:48,904] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.452 seconds
+[2021-07-23 16:20:54,897] {scheduler_job.py:181} INFO - Started process (PID=1967) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:54,898] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:20:54,899] {logging_mixin.py:104} INFO - [2021-07-23 16:20:54,899] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:54,919] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:55,022] {logging_mixin.py:104} INFO - [2021-07-23 16:20:55,022] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:55,037] {logging_mixin.py:104} INFO - [2021-07-23 16:20:55,037] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:55,061] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.169 seconds
+[2021-07-23 16:20:58,298] {scheduler_job.py:181} INFO - Started process (PID=2027) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:58,300] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:20:58,301] {logging_mixin.py:104} INFO - [2021-07-23 16:20:58,301] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:58,318] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:20:58,419] {logging_mixin.py:104} INFO - [2021-07-23 16:20:58,419] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:58,440] {logging_mixin.py:104} INFO - [2021-07-23 16:20:58,440] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:58,455] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.161 seconds
+[2021-07-23 16:21:02,624] {scheduler_job.py:181} INFO - Started process (PID=2086) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:02,626] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:21:02,627] {logging_mixin.py:104} INFO - [2021-07-23 16:21:02,627] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:02,642] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:02,796] {logging_mixin.py:104} INFO - [2021-07-23 16:21:02,796] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:02,833] {logging_mixin.py:104} INFO - [2021-07-23 16:21:02,833] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:02,871] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.251 seconds
+[2021-07-23 16:21:05,555] {scheduler_job.py:181} INFO - Started process (PID=2147) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:05,560] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:21:05,561] {logging_mixin.py:104} INFO - [2021-07-23 16:21:05,561] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:05,574] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:05,658] {logging_mixin.py:104} INFO - [2021-07-23 16:21:05,658] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:05,672] {logging_mixin.py:104} INFO - [2021-07-23 16:21:05,672] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:05,685] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.135 seconds
+[2021-07-23 16:21:08,313] {scheduler_job.py:181} INFO - Started process (PID=2208) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:08,316] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:21:08,316] {logging_mixin.py:104} INFO - [2021-07-23 16:21:08,316] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:08,344] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:08,444] {logging_mixin.py:104} INFO - [2021-07-23 16:21:08,444] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:08,458] {logging_mixin.py:104} INFO - [2021-07-23 16:21:08,458] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:08,469] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.159 seconds
+[2021-07-23 16:21:11,455] {scheduler_job.py:181} INFO - Started process (PID=2311) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:11,457] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:21:11,458] {logging_mixin.py:104} INFO - [2021-07-23 16:21:11,457] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:11,475] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:11,600] {logging_mixin.py:104} INFO - [2021-07-23 16:21:11,600] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:11,636] {logging_mixin.py:104} INFO - [2021-07-23 16:21:11,636] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:11,659] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.207 seconds
+[2021-07-23 16:21:13,971] {scheduler_job.py:181} INFO - Started process (PID=2379) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:13,974] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:21:13,977] {logging_mixin.py:104} INFO - [2021-07-23 16:21:13,977] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:13,991] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:14,080] {logging_mixin.py:104} INFO - [2021-07-23 16:21:14,079] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:14,092] {logging_mixin.py:104} INFO - [2021-07-23 16:21:14,092] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:14,102] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.137 seconds
+[2021-07-23 16:21:16,433] {scheduler_job.py:181} INFO - Started process (PID=2439) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:16,434] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:21:16,435] {logging_mixin.py:104} INFO - [2021-07-23 16:21:16,435] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:16,449] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:16,561] {logging_mixin.py:104} INFO - [2021-07-23 16:21:16,560] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:16,577] {logging_mixin.py:104} INFO - [2021-07-23 16:21:16,577] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:16,592] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.163 seconds
+[2021-07-23 16:21:18,727] {scheduler_job.py:181} INFO - Started process (PID=2499) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:18,729] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:21:18,729] {logging_mixin.py:104} INFO - [2021-07-23 16:21:18,729] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:18,745] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:18,835] {logging_mixin.py:104} INFO - [2021-07-23 16:21:18,835] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:18,848] {logging_mixin.py:104} INFO - [2021-07-23 16:21:18,848] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:18,861] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.136 seconds
+[2021-07-23 16:21:21,052] {scheduler_job.py:181} INFO - Started process (PID=2559) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:21,054] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:21:21,054] {logging_mixin.py:104} INFO - [2021-07-23 16:21:21,054] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:21,072] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:21,152] {logging_mixin.py:104} INFO - [2021-07-23 16:21:21,152] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:21,165] {logging_mixin.py:104} INFO - [2021-07-23 16:21:21,165] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:21,177] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.128 seconds
+[2021-07-23 16:21:23,660] {scheduler_job.py:181} INFO - Started process (PID=2619) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:23,662] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:21:23,663] {logging_mixin.py:104} INFO - [2021-07-23 16:21:23,663] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:23,678] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:23,766] {logging_mixin.py:104} INFO - [2021-07-23 16:21:23,766] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:23,785] {logging_mixin.py:104} INFO - [2021-07-23 16:21:23,785] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:23,801] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.147 seconds
+[2021-07-23 16:21:26,079] {scheduler_job.py:181} INFO - Started process (PID=2679) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:26,083] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:21:26,084] {logging_mixin.py:104} INFO - [2021-07-23 16:21:26,084] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:26,109] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:26,228] {logging_mixin.py:104} INFO - [2021-07-23 16:21:26,228] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:26,244] {logging_mixin.py:104} INFO - [2021-07-23 16:21:26,244] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:26,254] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.180 seconds
+[2021-07-23 16:21:28,467] {scheduler_job.py:181} INFO - Started process (PID=2760) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:28,469] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:21:28,470] {logging_mixin.py:104} INFO - [2021-07-23 16:21:28,470] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:28,507] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:28,665] {logging_mixin.py:104} INFO - [2021-07-23 16:21:28,665] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:28,682] {logging_mixin.py:104} INFO - [2021-07-23 16:21:28,682] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:28,695] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.232 seconds
+[2021-07-23 16:21:31,361] {scheduler_job.py:181} INFO - Started process (PID=2820) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:31,362] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:21:31,363] {logging_mixin.py:104} INFO - [2021-07-23 16:21:31,363] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:31,379] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:31,470] {logging_mixin.py:104} INFO - [2021-07-23 16:21:31,470] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:31,486] {logging_mixin.py:104} INFO - [2021-07-23 16:21:31,486] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:31,498] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.140 seconds
+[2021-07-23 16:21:34,565] {scheduler_job.py:181} INFO - Started process (PID=2880) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:34,569] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:21:34,570] {logging_mixin.py:104} INFO - [2021-07-23 16:21:34,569] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:34,586] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:34,678] {logging_mixin.py:104} INFO - [2021-07-23 16:21:34,678] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:34,697] {logging_mixin.py:104} INFO - [2021-07-23 16:21:34,697] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:34,713] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.154 seconds
+[2021-07-23 16:21:37,869] {scheduler_job.py:181} INFO - Started process (PID=2940) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:37,870] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:21:37,871] {logging_mixin.py:104} INFO - [2021-07-23 16:21:37,871] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:37,900] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:37,981] {logging_mixin.py:104} INFO - [2021-07-23 16:21:37,981] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:37,997] {logging_mixin.py:104} INFO - [2021-07-23 16:21:37,997] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:38,010] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.146 seconds
+[2021-07-23 16:21:40,456] {scheduler_job.py:181} INFO - Started process (PID=3000) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:40,457] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:21:40,457] {logging_mixin.py:104} INFO - [2021-07-23 16:21:40,457] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:40,475] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:40,567] {logging_mixin.py:104} INFO - [2021-07-23 16:21:40,567] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:40,596] {logging_mixin.py:104} INFO - [2021-07-23 16:21:40,596] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:40,617] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.166 seconds
+[2021-07-23 16:21:44,221] {scheduler_job.py:181} INFO - Started process (PID=3059) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:44,226] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:21:44,226] {logging_mixin.py:104} INFO - [2021-07-23 16:21:44,226] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:44,270] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:44,383] {logging_mixin.py:104} INFO - [2021-07-23 16:21:44,382] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:44,399] {logging_mixin.py:104} INFO - [2021-07-23 16:21:44,398] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:44,419] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.202 seconds
+[2021-07-23 16:21:48,295] {scheduler_job.py:181} INFO - Started process (PID=3121) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:48,296] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:21:48,297] {logging_mixin.py:104} INFO - [2021-07-23 16:21:48,297] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:48,312] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:48,417] {logging_mixin.py:104} INFO - [2021-07-23 16:21:48,417] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:48,438] {logging_mixin.py:104} INFO - [2021-07-23 16:21:48,438] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:48,450] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.159 seconds
+[2021-07-23 16:21:51,493] {scheduler_job.py:181} INFO - Started process (PID=3181) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:51,494] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2021-07-23 16:21:51,495] {logging_mixin.py:104} INFO - [2021-07-23 16:21:51,495] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:51,511] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2021-07-23 16:21:51,667] {logging_mixin.py:104} INFO - [2021-07-23 16:21:51,667] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:51,690] {logging_mixin.py:104} INFO - [2021-07-23 16:21:51,690] {dag.py:2306} INFO - Setting next_dagrun for example_xcom to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:51,707] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.217 seconds

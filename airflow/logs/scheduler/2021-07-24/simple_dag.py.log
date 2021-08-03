@@ -1,0 +1,7 @@
+[2021-07-24 12:43:55,086] {scheduler_job.py:181} INFO - Started process (PID=14608) to work on /home/dennismutia/vouchers/airflow/dags/simple_dag.py
+[2021-07-24 12:43:55,087] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/vouchers/airflow/dags/simple_dag.py for tasks to queue
+[2021-07-24 12:43:55,087] {logging_mixin.py:104} INFO - [2021-07-24 12:43:55,087] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/vouchers/airflow/dags/simple_dag.py
+[2021-07-24 12:43:55,169] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/dennismutia/vouchers/airflow/dags/simple_dag.py
+[2021-07-24 12:43:55,385] {logging_mixin.py:104} INFO - [2021-07-24 12:43:55,385] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-24 12:43:55,466] {logging_mixin.py:104} INFO - [2021-07-24 12:43:55,466] {dag.py:2306} INFO - Setting next_dagrun for hello_world to 2021-07-23 12:00:00+00:00
+[2021-07-24 12:43:55,486] {scheduler_job.py:189} INFO - Processing /home/dennismutia/vouchers/airflow/dags/simple_dag.py took 0.429 seconds

@@ -1,0 +1,259 @@
+[2021-07-23 16:19:57,886] {scheduler_job.py:181} INFO - Started process (PID=832) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:19:57,887] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:19:57,888] {logging_mixin.py:104} INFO - [2021-07-23 16:19:57,888] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:19:57,899] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:19:58,151] {logging_mixin.py:104} INFO - [2021-07-23 16:19:58,151] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:19:58,165] {logging_mixin.py:104} INFO - [2021-07-23 16:19:58,165] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:19:58,180] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.297 seconds
+[2021-07-23 16:20:00,115] {scheduler_job.py:181} INFO - Started process (PID=894) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:00,116] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:20:00,117] {logging_mixin.py:104} INFO - [2021-07-23 16:20:00,116] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:00,132] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:00,159] {logging_mixin.py:104} INFO - [2021-07-23 16:20:00,158] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:00,227] {logging_mixin.py:104} INFO - [2021-07-23 16:20:00,227] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:00,237] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.126 seconds
+[2021-07-23 16:20:02,061] {scheduler_job.py:181} INFO - Started process (PID=996) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:02,062] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:20:02,062] {logging_mixin.py:104} INFO - [2021-07-23 16:20:02,062] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:02,074] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:02,088] {logging_mixin.py:104} INFO - [2021-07-23 16:20:02,088] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:02,206] {logging_mixin.py:104} INFO - [2021-07-23 16:20:02,206] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:02,223] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.165 seconds
+[2021-07-23 16:20:04,018] {scheduler_job.py:181} INFO - Started process (PID=1057) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:04,018] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:20:04,019] {logging_mixin.py:104} INFO - [2021-07-23 16:20:04,019] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:04,031] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:04,046] {logging_mixin.py:104} INFO - [2021-07-23 16:20:04,045] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:04,167] {logging_mixin.py:104} INFO - [2021-07-23 16:20:04,167] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:04,176] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.160 seconds
+[2021-07-23 16:20:05,900] {scheduler_job.py:181} INFO - Started process (PID=1125) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:05,901] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:20:05,901] {logging_mixin.py:104} INFO - [2021-07-23 16:20:05,901] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:05,914] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:05,981] {logging_mixin.py:104} INFO - [2021-07-23 16:20:05,980] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:05,994] {logging_mixin.py:104} INFO - [2021-07-23 16:20:05,994] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:06,004] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.107 seconds
+[2021-07-23 16:20:07,898] {scheduler_job.py:181} INFO - Started process (PID=1186) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:07,898] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:20:07,899] {logging_mixin.py:104} INFO - [2021-07-23 16:20:07,899] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:07,913] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:07,985] {logging_mixin.py:104} INFO - [2021-07-23 16:20:07,985] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:07,999] {logging_mixin.py:104} INFO - [2021-07-23 16:20:07,999] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:08,009] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.114 seconds
+[2021-07-23 16:20:09,874] {scheduler_job.py:181} INFO - Started process (PID=1266) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:09,875] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:20:09,875] {logging_mixin.py:104} INFO - [2021-07-23 16:20:09,875] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:09,887] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:09,954] {logging_mixin.py:104} INFO - [2021-07-23 16:20:09,954] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:09,965] {logging_mixin.py:104} INFO - [2021-07-23 16:20:09,965] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:09,978] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.107 seconds
+[2021-07-23 16:20:11,769] {scheduler_job.py:181} INFO - Started process (PID=1328) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:11,770] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:20:11,771] {logging_mixin.py:104} INFO - [2021-07-23 16:20:11,771] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:11,786] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:11,855] {logging_mixin.py:104} INFO - [2021-07-23 16:20:11,855] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:11,870] {logging_mixin.py:104} INFO - [2021-07-23 16:20:11,870] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:11,880] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.114 seconds
+[2021-07-23 16:20:13,925] {scheduler_job.py:181} INFO - Started process (PID=1390) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:13,927] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:20:13,930] {logging_mixin.py:104} INFO - [2021-07-23 16:20:13,929] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:13,949] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:14,022] {logging_mixin.py:104} INFO - [2021-07-23 16:20:14,022] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:14,038] {logging_mixin.py:104} INFO - [2021-07-23 16:20:14,038] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:14,054] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.132 seconds
+[2021-07-23 16:20:16,327] {scheduler_job.py:181} INFO - Started process (PID=1450) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:16,329] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:20:16,329] {logging_mixin.py:104} INFO - [2021-07-23 16:20:16,329] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:16,348] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:16,439] {logging_mixin.py:104} INFO - [2021-07-23 16:20:16,439] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:16,459] {logging_mixin.py:104} INFO - [2021-07-23 16:20:16,459] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:16,479] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.155 seconds
+[2021-07-23 16:20:18,695] {scheduler_job.py:181} INFO - Started process (PID=1510) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:18,696] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:20:18,697] {logging_mixin.py:104} INFO - [2021-07-23 16:20:18,697] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:18,713] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:18,789] {logging_mixin.py:104} INFO - [2021-07-23 16:20:18,789] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:18,823] {logging_mixin.py:104} INFO - [2021-07-23 16:20:18,823] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:18,841] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.150 seconds
+[2021-07-23 16:20:21,022] {scheduler_job.py:181} INFO - Started process (PID=1570) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:21,023] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:20:21,023] {logging_mixin.py:104} INFO - [2021-07-23 16:20:21,023] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:21,038] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:21,130] {logging_mixin.py:104} INFO - [2021-07-23 16:20:21,130] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:21,150] {logging_mixin.py:104} INFO - [2021-07-23 16:20:21,150] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:21,164] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.145 seconds
+[2021-07-23 16:20:23,768] {scheduler_job.py:181} INFO - Started process (PID=1635) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:23,775] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:20:23,776] {logging_mixin.py:104} INFO - [2021-07-23 16:20:23,775] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:23,807] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:23,903] {logging_mixin.py:104} INFO - [2021-07-23 16:20:23,902] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:23,922] {logging_mixin.py:104} INFO - [2021-07-23 16:20:23,922] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:23,936] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.173 seconds
+[2021-07-23 16:20:26,567] {scheduler_job.py:181} INFO - Started process (PID=1696) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:26,568] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:20:26,569] {logging_mixin.py:104} INFO - [2021-07-23 16:20:26,569] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:26,585] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:26,691] {logging_mixin.py:104} INFO - [2021-07-23 16:20:26,691] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:26,713] {logging_mixin.py:104} INFO - [2021-07-23 16:20:26,712] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:26,728] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.171 seconds
+[2021-07-23 16:20:31,864] {scheduler_job.py:181} INFO - Started process (PID=1757) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:31,865] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:20:31,866] {logging_mixin.py:104} INFO - [2021-07-23 16:20:31,866] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:31,902] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:32,101] {logging_mixin.py:104} INFO - [2021-07-23 16:20:32,101] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:32,169] {logging_mixin.py:104} INFO - [2021-07-23 16:20:32,169] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:32,247] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.387 seconds
+[2021-07-23 16:20:40,573] {scheduler_job.py:181} INFO - Started process (PID=1835) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:40,590] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:20:40,593] {logging_mixin.py:104} INFO - [2021-07-23 16:20:40,593] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:40,642] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:40,857] {logging_mixin.py:104} INFO - [2021-07-23 16:20:40,857] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:40,907] {logging_mixin.py:104} INFO - [2021-07-23 16:20:40,907] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:40,943] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.374 seconds
+[2021-07-23 16:20:47,252] {scheduler_job.py:181} INFO - Started process (PID=1899) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:47,254] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:20:47,255] {logging_mixin.py:104} INFO - [2021-07-23 16:20:47,254] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:47,296] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:47,509] {logging_mixin.py:104} INFO - [2021-07-23 16:20:47,508] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:47,547] {logging_mixin.py:104} INFO - [2021-07-23 16:20:47,547] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:47,584] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.336 seconds
+[2021-07-23 16:20:54,116] {scheduler_job.py:181} INFO - Started process (PID=1959) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:54,117] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:20:54,117] {logging_mixin.py:104} INFO - [2021-07-23 16:20:54,117] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:54,136] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:54,272] {logging_mixin.py:104} INFO - [2021-07-23 16:20:54,272] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:54,335] {logging_mixin.py:104} INFO - [2021-07-23 16:20:54,335] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:54,450] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.338 seconds
+[2021-07-23 16:20:57,958] {scheduler_job.py:181} INFO - Started process (PID=2019) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:57,959] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:20:57,960] {logging_mixin.py:104} INFO - [2021-07-23 16:20:57,960] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:57,984] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:20:58,072] {logging_mixin.py:104} INFO - [2021-07-23 16:20:58,072] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:58,091] {logging_mixin.py:104} INFO - [2021-07-23 16:20:58,091] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:58,110] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.157 seconds
+[2021-07-23 16:21:02,119] {scheduler_job.py:181} INFO - Started process (PID=2078) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:02,122] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:21:02,126] {logging_mixin.py:104} INFO - [2021-07-23 16:21:02,126] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:02,159] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:02,293] {logging_mixin.py:104} INFO - [2021-07-23 16:21:02,290] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:02,323] {logging_mixin.py:104} INFO - [2021-07-23 16:21:02,323] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:02,340] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.225 seconds
+[2021-07-23 16:21:05,219] {scheduler_job.py:181} INFO - Started process (PID=2139) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:05,222] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:21:05,223] {logging_mixin.py:104} INFO - [2021-07-23 16:21:05,223] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:05,239] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:05,317] {logging_mixin.py:104} INFO - [2021-07-23 16:21:05,317] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:05,335] {logging_mixin.py:104} INFO - [2021-07-23 16:21:05,334] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:05,350] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.135 seconds
+[2021-07-23 16:21:07,958] {scheduler_job.py:181} INFO - Started process (PID=2200) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:07,960] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:21:07,961] {logging_mixin.py:104} INFO - [2021-07-23 16:21:07,961] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:07,980] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:08,076] {logging_mixin.py:104} INFO - [2021-07-23 16:21:08,076] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:08,095] {logging_mixin.py:104} INFO - [2021-07-23 16:21:08,095] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:08,110] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.156 seconds
+[2021-07-23 16:21:10,958] {scheduler_job.py:181} INFO - Started process (PID=2303) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:10,960] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:21:10,961] {logging_mixin.py:104} INFO - [2021-07-23 16:21:10,961] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:10,988] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:11,119] {logging_mixin.py:104} INFO - [2021-07-23 16:21:11,119] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:11,137] {logging_mixin.py:104} INFO - [2021-07-23 16:21:11,137] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:11,154] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.202 seconds
+[2021-07-23 16:21:13,606] {scheduler_job.py:181} INFO - Started process (PID=2371) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:13,613] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:21:13,613] {logging_mixin.py:104} INFO - [2021-07-23 16:21:13,613] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:13,636] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:13,736] {logging_mixin.py:104} INFO - [2021-07-23 16:21:13,736] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:13,759] {logging_mixin.py:104} INFO - [2021-07-23 16:21:13,759] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:13,779] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.176 seconds
+[2021-07-23 16:21:16,122] {scheduler_job.py:181} INFO - Started process (PID=2431) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:16,124] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:21:16,124] {logging_mixin.py:104} INFO - [2021-07-23 16:21:16,124] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:16,140] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:16,223] {logging_mixin.py:104} INFO - [2021-07-23 16:21:16,222] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:16,242] {logging_mixin.py:104} INFO - [2021-07-23 16:21:16,242] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:16,255] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.136 seconds
+[2021-07-23 16:21:18,402] {scheduler_job.py:181} INFO - Started process (PID=2490) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:18,403] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:21:18,403] {logging_mixin.py:104} INFO - [2021-07-23 16:21:18,403] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:18,421] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:18,515] {logging_mixin.py:104} INFO - [2021-07-23 16:21:18,514] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:18,532] {logging_mixin.py:104} INFO - [2021-07-23 16:21:18,532] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:18,546] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.147 seconds
+[2021-07-23 16:21:20,708] {scheduler_job.py:181} INFO - Started process (PID=2550) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:20,709] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:21:20,710] {logging_mixin.py:104} INFO - [2021-07-23 16:21:20,710] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:20,726] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:20,812] {logging_mixin.py:104} INFO - [2021-07-23 16:21:20,812] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:20,830] {logging_mixin.py:104} INFO - [2021-07-23 16:21:20,830] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:20,849] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.144 seconds
+[2021-07-23 16:21:23,336] {scheduler_job.py:181} INFO - Started process (PID=2611) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:23,337] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:21:23,338] {logging_mixin.py:104} INFO - [2021-07-23 16:21:23,338] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:23,354] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:23,438] {logging_mixin.py:104} INFO - [2021-07-23 16:21:23,437] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:23,457] {logging_mixin.py:104} INFO - [2021-07-23 16:21:23,456] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:23,469] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.136 seconds
+[2021-07-23 16:21:25,745] {scheduler_job.py:181} INFO - Started process (PID=2671) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:25,747] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:21:25,747] {logging_mixin.py:104} INFO - [2021-07-23 16:21:25,747] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:25,771] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:25,855] {logging_mixin.py:104} INFO - [2021-07-23 16:21:25,854] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:25,880] {logging_mixin.py:104} INFO - [2021-07-23 16:21:25,880] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:25,894] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.152 seconds
+[2021-07-23 16:21:28,153] {scheduler_job.py:181} INFO - Started process (PID=2751) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:28,154] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:21:28,154] {logging_mixin.py:104} INFO - [2021-07-23 16:21:28,154] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:28,172] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:28,255] {logging_mixin.py:104} INFO - [2021-07-23 16:21:28,255] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:28,276] {logging_mixin.py:104} INFO - [2021-07-23 16:21:28,276] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:28,292] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.143 seconds
+[2021-07-23 16:21:31,005] {scheduler_job.py:181} INFO - Started process (PID=2812) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:31,006] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:21:31,007] {logging_mixin.py:104} INFO - [2021-07-23 16:21:31,007] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:31,032] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:31,138] {logging_mixin.py:104} INFO - [2021-07-23 16:21:31,138] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:31,155] {logging_mixin.py:104} INFO - [2021-07-23 16:21:31,155] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:31,173] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.178 seconds
+[2021-07-23 16:21:34,131] {scheduler_job.py:181} INFO - Started process (PID=2872) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:34,133] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:21:34,135] {logging_mixin.py:104} INFO - [2021-07-23 16:21:34,134] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:34,158] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:34,253] {logging_mixin.py:104} INFO - [2021-07-23 16:21:34,253] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:34,274] {logging_mixin.py:104} INFO - [2021-07-23 16:21:34,273] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:34,286] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.158 seconds
+[2021-07-23 16:21:37,323] {scheduler_job.py:181} INFO - Started process (PID=2932) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:37,324] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:21:37,325] {logging_mixin.py:104} INFO - [2021-07-23 16:21:37,325] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:37,472] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:37,519] {logging_mixin.py:104} INFO - [2021-07-23 16:21:37,518] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:37,546] {logging_mixin.py:104} INFO - [2021-07-23 16:21:37,546] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:37,571] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.252 seconds
+[2021-07-23 16:21:40,045] {scheduler_job.py:181} INFO - Started process (PID=2992) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:40,046] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:21:40,047] {logging_mixin.py:104} INFO - [2021-07-23 16:21:40,047] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:40,123] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:40,155] {logging_mixin.py:104} INFO - [2021-07-23 16:21:40,155] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:40,181] {logging_mixin.py:104} INFO - [2021-07-23 16:21:40,180] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:40,208] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.167 seconds
+[2021-07-23 16:21:43,615] {scheduler_job.py:181} INFO - Started process (PID=3051) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:43,623] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:21:43,624] {logging_mixin.py:104} INFO - [2021-07-23 16:21:43,623] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:43,794] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:43,836] {logging_mixin.py:104} INFO - [2021-07-23 16:21:43,836] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:43,870] {logging_mixin.py:104} INFO - [2021-07-23 16:21:43,869] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:43,892] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.285 seconds
+[2021-07-23 16:21:47,740] {scheduler_job.py:181} INFO - Started process (PID=3112) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:47,752] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:21:47,753] {logging_mixin.py:104} INFO - [2021-07-23 16:21:47,753] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:47,912] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:47,983] {logging_mixin.py:104} INFO - [2021-07-23 16:21:47,983] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:48,009] {logging_mixin.py:104} INFO - [2021-07-23 16:21:48,009] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:48,032] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.296 seconds
+[2021-07-23 16:21:50,941] {scheduler_job.py:181} INFO - Started process (PID=3173) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:50,943] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-07-23 16:21:50,945] {logging_mixin.py:104} INFO - [2021-07-23 16:21:50,944] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:51,039] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-07-23 16:21:51,075] {logging_mixin.py:104} INFO - [2021-07-23 16:21:51,075] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:51,097] {logging_mixin.py:104} INFO - [2021-07-23 16:21:51,097] {dag.py:2306} INFO - Setting next_dagrun for example_bash_operator to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:51,126] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.191 seconds

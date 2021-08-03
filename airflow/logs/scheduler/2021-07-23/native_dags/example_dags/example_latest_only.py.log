@@ -1,0 +1,265 @@
+[2021-07-23 16:19:57,375] {scheduler_job.py:181} INFO - Started process (PID=823) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:19:57,376] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:19:57,377] {logging_mixin.py:104} INFO - [2021-07-23 16:19:57,376] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:19:57,385] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:19:57,601] {logging_mixin.py:104} INFO - [2021-07-23 16:19:57,601] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:19:57,611] {logging_mixin.py:104} INFO - [2021-07-23 16:19:57,611] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:19:57,621] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.248 seconds
+[2021-07-23 16:19:59,877] {scheduler_job.py:181} INFO - Started process (PID=886) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:19:59,877] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:19:59,878] {logging_mixin.py:104} INFO - [2021-07-23 16:19:59,878] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:19:59,890] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:19:59,918] {logging_mixin.py:104} INFO - [2021-07-23 16:19:59,918] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:19:59,968] {logging_mixin.py:104} INFO - [2021-07-23 16:19:59,967] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:19:59,979] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.105 seconds
+[2021-07-23 16:20:01,779] {scheduler_job.py:181} INFO - Started process (PID=946) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:01,781] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:20:01,782] {logging_mixin.py:104} INFO - [2021-07-23 16:20:01,781] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:01,793] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:01,812] {logging_mixin.py:104} INFO - [2021-07-23 16:20:01,812] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:01,869] {logging_mixin.py:104} INFO - [2021-07-23 16:20:01,869] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:01,878] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.101 seconds
+[2021-07-23 16:20:03,747] {scheduler_job.py:181} INFO - Started process (PID=1049) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:03,748] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:20:03,748] {logging_mixin.py:104} INFO - [2021-07-23 16:20:03,748] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:03,762] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:03,790] {logging_mixin.py:104} INFO - [2021-07-23 16:20:03,790] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:03,851] {logging_mixin.py:104} INFO - [2021-07-23 16:20:03,851] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:03,866] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.122 seconds
+[2021-07-23 16:20:05,649] {scheduler_job.py:181} INFO - Started process (PID=1117) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:05,650] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:20:05,651] {logging_mixin.py:104} INFO - [2021-07-23 16:20:05,650] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:05,661] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:05,696] {logging_mixin.py:104} INFO - [2021-07-23 16:20:05,696] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:05,755] {logging_mixin.py:104} INFO - [2021-07-23 16:20:05,755] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:05,764] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.117 seconds
+[2021-07-23 16:20:07,545] {scheduler_job.py:181} INFO - Started process (PID=1177) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:07,545] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:20:07,546] {logging_mixin.py:104} INFO - [2021-07-23 16:20:07,546] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:07,560] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:07,580] {logging_mixin.py:104} INFO - [2021-07-23 16:20:07,579] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:07,643] {logging_mixin.py:104} INFO - [2021-07-23 16:20:07,643] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:07,655] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.115 seconds
+[2021-07-23 16:20:09,629] {scheduler_job.py:181} INFO - Started process (PID=1258) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:09,632] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:20:09,633] {logging_mixin.py:104} INFO - [2021-07-23 16:20:09,633] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:09,648] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:09,673] {logging_mixin.py:104} INFO - [2021-07-23 16:20:09,673] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:09,733] {logging_mixin.py:104} INFO - [2021-07-23 16:20:09,733] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:09,745] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.118 seconds
+[2021-07-23 16:20:11,519] {scheduler_job.py:181} INFO - Started process (PID=1320) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:11,520] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:20:11,521] {logging_mixin.py:104} INFO - [2021-07-23 16:20:11,521] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:11,533] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:11,555] {logging_mixin.py:104} INFO - [2021-07-23 16:20:11,555] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:11,616] {logging_mixin.py:104} INFO - [2021-07-23 16:20:11,616] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:11,635] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.119 seconds
+[2021-07-23 16:20:13,623] {scheduler_job.py:181} INFO - Started process (PID=1382) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:13,624] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:20:13,625] {logging_mixin.py:104} INFO - [2021-07-23 16:20:13,624] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:13,639] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:13,668] {logging_mixin.py:104} INFO - [2021-07-23 16:20:13,667] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:13,747] {logging_mixin.py:104} INFO - [2021-07-23 16:20:13,747] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:13,762] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.142 seconds
+[2021-07-23 16:20:15,999] {scheduler_job.py:181} INFO - Started process (PID=1442) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:16,000] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:20:16,001] {logging_mixin.py:104} INFO - [2021-07-23 16:20:16,001] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:16,016] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:16,048] {logging_mixin.py:104} INFO - [2021-07-23 16:20:16,048] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:16,122] {logging_mixin.py:104} INFO - [2021-07-23 16:20:16,122] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:16,142] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.147 seconds
+[2021-07-23 16:20:18,384] {scheduler_job.py:181} INFO - Started process (PID=1502) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:18,386] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:20:18,387] {logging_mixin.py:104} INFO - [2021-07-23 16:20:18,387] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:18,400] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:18,435] {logging_mixin.py:104} INFO - [2021-07-23 16:20:18,435] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:18,509] {logging_mixin.py:104} INFO - [2021-07-23 16:20:18,509] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:18,522] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.141 seconds
+[2021-07-23 16:20:20,724] {scheduler_job.py:181} INFO - Started process (PID=1562) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:20,725] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:20:20,726] {logging_mixin.py:104} INFO - [2021-07-23 16:20:20,726] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:20,740] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:20,763] {logging_mixin.py:104} INFO - [2021-07-23 16:20:20,762] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:20,840] {logging_mixin.py:104} INFO - [2021-07-23 16:20:20,840] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:20,857] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.136 seconds
+[2021-07-23 16:20:23,369] {scheduler_job.py:181} INFO - Started process (PID=1624) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:23,374] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:20:23,378] {logging_mixin.py:104} INFO - [2021-07-23 16:20:23,378] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:23,397] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:23,421] {logging_mixin.py:104} INFO - [2021-07-23 16:20:23,421] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:23,535] {logging_mixin.py:104} INFO - [2021-07-23 16:20:23,534] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:23,556] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.190 seconds
+[2021-07-23 16:20:26,215] {scheduler_job.py:181} INFO - Started process (PID=1688) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:26,216] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:20:26,217] {logging_mixin.py:104} INFO - [2021-07-23 16:20:26,216] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:26,231] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:26,252] {logging_mixin.py:104} INFO - [2021-07-23 16:20:26,252] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:26,322] {logging_mixin.py:104} INFO - [2021-07-23 16:20:26,322] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:26,333] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.123 seconds
+[2021-07-23 16:20:30,890] {scheduler_job.py:181} INFO - Started process (PID=1750) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:30,902] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:20:30,903] {logging_mixin.py:104} INFO - [2021-07-23 16:20:30,903] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:30,952] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:31,274] {logging_mixin.py:104} INFO - [2021-07-23 16:20:31,273] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:31,309] {logging_mixin.py:104} INFO - [2021-07-23 16:20:31,309] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:31,421] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.546 seconds
+[2021-07-23 16:20:39,671] {scheduler_job.py:181} INFO - Started process (PID=1828) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:39,686] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:20:39,687] {logging_mixin.py:104} INFO - [2021-07-23 16:20:39,687] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:39,725] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:39,958] {logging_mixin.py:104} INFO - [2021-07-23 16:20:39,958] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:40,011] {logging_mixin.py:104} INFO - [2021-07-23 16:20:40,011] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:40,062] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.409 seconds
+[2021-07-23 16:20:46,320] {scheduler_job.py:181} INFO - Started process (PID=1890) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:46,322] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:20:46,323] {logging_mixin.py:104} INFO - [2021-07-23 16:20:46,323] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:46,373] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:46,608] {logging_mixin.py:104} INFO - [2021-07-23 16:20:46,608] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:46,656] {logging_mixin.py:104} INFO - [2021-07-23 16:20:46,656] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:46,691] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.389 seconds
+[2021-07-23 16:20:53,479] {scheduler_job.py:181} INFO - Started process (PID=1951) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:53,480] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:20:53,482] {logging_mixin.py:104} INFO - [2021-07-23 16:20:53,482] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:53,504] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:53,711] {logging_mixin.py:104} INFO - [2021-07-23 16:20:53,711] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:53,734] {logging_mixin.py:104} INFO - [2021-07-23 16:20:53,734] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:53,789] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.316 seconds
+[2021-07-23 16:20:57,557] {scheduler_job.py:181} INFO - Started process (PID=2011) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:57,558] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:20:57,559] {logging_mixin.py:104} INFO - [2021-07-23 16:20:57,559] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:57,578] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:20:57,697] {logging_mixin.py:104} INFO - [2021-07-23 16:20:57,696] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:57,715] {logging_mixin.py:104} INFO - [2021-07-23 16:20:57,714] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:57,732] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.178 seconds
+[2021-07-23 16:21:01,464] {scheduler_job.py:181} INFO - Started process (PID=2070) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:01,466] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:21:01,466] {logging_mixin.py:104} INFO - [2021-07-23 16:21:01,466] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:01,529] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:01,736] {logging_mixin.py:104} INFO - [2021-07-23 16:21:01,736] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:01,766] {logging_mixin.py:104} INFO - [2021-07-23 16:21:01,766] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:01,830] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.370 seconds
+[2021-07-23 16:21:04,934] {scheduler_job.py:181} INFO - Started process (PID=2131) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:04,935] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:21:04,936] {logging_mixin.py:104} INFO - [2021-07-23 16:21:04,936] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:04,948] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:05,036] {logging_mixin.py:104} INFO - [2021-07-23 16:21:05,036] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:05,049] {logging_mixin.py:104} INFO - [2021-07-23 16:21:05,049] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:05,061] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.131 seconds
+[2021-07-23 16:21:07,576] {scheduler_job.py:181} INFO - Started process (PID=2192) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:07,577] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:21:07,578] {logging_mixin.py:104} INFO - [2021-07-23 16:21:07,578] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:07,595] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:07,688] {logging_mixin.py:104} INFO - [2021-07-23 16:21:07,688] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:07,706] {logging_mixin.py:104} INFO - [2021-07-23 16:21:07,705] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:07,724] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.153 seconds
+[2021-07-23 16:21:10,576] {scheduler_job.py:181} INFO - Started process (PID=2295) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:10,577] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:21:10,578] {logging_mixin.py:104} INFO - [2021-07-23 16:21:10,577] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:10,591] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:10,700] {logging_mixin.py:104} INFO - [2021-07-23 16:21:10,700] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:10,721] {logging_mixin.py:104} INFO - [2021-07-23 16:21:10,721] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:10,741] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.173 seconds
+[2021-07-23 16:21:13,290] {scheduler_job.py:181} INFO - Started process (PID=2363) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:13,293] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:21:13,295] {logging_mixin.py:104} INFO - [2021-07-23 16:21:13,295] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:13,315] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:13,402] {logging_mixin.py:104} INFO - [2021-07-23 16:21:13,402] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:13,417] {logging_mixin.py:104} INFO - [2021-07-23 16:21:13,417] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:13,429] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.142 seconds
+[2021-07-23 16:21:15,817] {scheduler_job.py:181} INFO - Started process (PID=2423) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:15,818] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:21:15,819] {logging_mixin.py:104} INFO - [2021-07-23 16:21:15,818] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:15,833] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:15,916] {logging_mixin.py:104} INFO - [2021-07-23 16:21:15,916] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:15,930] {logging_mixin.py:104} INFO - [2021-07-23 16:21:15,930] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:15,941] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.127 seconds
+[2021-07-23 16:21:18,105] {scheduler_job.py:181} INFO - Started process (PID=2483) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:18,106] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:21:18,107] {logging_mixin.py:104} INFO - [2021-07-23 16:21:18,107] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:18,124] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:18,211] {logging_mixin.py:104} INFO - [2021-07-23 16:21:18,211] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:18,227] {logging_mixin.py:104} INFO - [2021-07-23 16:21:18,227] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:18,240] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.138 seconds
+[2021-07-23 16:21:20,395] {scheduler_job.py:181} INFO - Started process (PID=2543) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:20,396] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:21:20,399] {logging_mixin.py:104} INFO - [2021-07-23 16:21:20,399] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:20,413] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:20,503] {logging_mixin.py:104} INFO - [2021-07-23 16:21:20,503] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:20,518] {logging_mixin.py:104} INFO - [2021-07-23 16:21:20,517] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:20,532] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.140 seconds
+[2021-07-23 16:21:23,043] {scheduler_job.py:181} INFO - Started process (PID=2603) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:23,046] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:21:23,047] {logging_mixin.py:104} INFO - [2021-07-23 16:21:23,047] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:23,062] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:23,152] {logging_mixin.py:104} INFO - [2021-07-23 16:21:23,152] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:23,166] {logging_mixin.py:104} INFO - [2021-07-23 16:21:23,166] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:23,183] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.142 seconds
+[2021-07-23 16:21:25,404] {scheduler_job.py:181} INFO - Started process (PID=2663) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:25,405] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:21:25,406] {logging_mixin.py:104} INFO - [2021-07-23 16:21:25,406] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:25,421] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:25,515] {logging_mixin.py:104} INFO - [2021-07-23 16:21:25,515] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:25,532] {logging_mixin.py:104} INFO - [2021-07-23 16:21:25,532] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:25,551] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.150 seconds
+[2021-07-23 16:21:27,835] {scheduler_job.py:181} INFO - Started process (PID=2744) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:27,836] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:21:27,836] {logging_mixin.py:104} INFO - [2021-07-23 16:21:27,836] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:27,849] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:27,948] {logging_mixin.py:104} INFO - [2021-07-23 16:21:27,948] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:27,963] {logging_mixin.py:104} INFO - [2021-07-23 16:21:27,963] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:27,976] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.145 seconds
+[2021-07-23 16:21:30,583] {scheduler_job.py:181} INFO - Started process (PID=2804) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:30,586] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:21:30,586] {logging_mixin.py:104} INFO - [2021-07-23 16:21:30,586] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:30,601] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:30,698] {logging_mixin.py:104} INFO - [2021-07-23 16:21:30,698] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:30,713] {logging_mixin.py:104} INFO - [2021-07-23 16:21:30,713] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:30,727] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.148 seconds
+[2021-07-23 16:21:33,706] {scheduler_job.py:181} INFO - Started process (PID=2864) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:33,709] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:21:33,713] {logging_mixin.py:104} INFO - [2021-07-23 16:21:33,712] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:33,732] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:33,837] {logging_mixin.py:104} INFO - [2021-07-23 16:21:33,837] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:33,864] {logging_mixin.py:104} INFO - [2021-07-23 16:21:33,864] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:33,877] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.175 seconds
+[2021-07-23 16:21:36,886] {scheduler_job.py:181} INFO - Started process (PID=2924) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:36,887] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:21:36,888] {logging_mixin.py:104} INFO - [2021-07-23 16:21:36,887] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:36,912] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:37,031] {logging_mixin.py:104} INFO - [2021-07-23 16:21:37,031] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:37,056] {logging_mixin.py:104} INFO - [2021-07-23 16:21:37,056] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:37,089] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.211 seconds
+[2021-07-23 16:21:39,592] {scheduler_job.py:181} INFO - Started process (PID=2984) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:39,596] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:21:39,597] {logging_mixin.py:104} INFO - [2021-07-23 16:21:39,597] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:39,616] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:39,723] {logging_mixin.py:104} INFO - [2021-07-23 16:21:39,722] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:39,751] {logging_mixin.py:104} INFO - [2021-07-23 16:21:39,750] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:39,778] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.191 seconds
+[2021-07-23 16:21:42,820] {scheduler_job.py:181} INFO - Started process (PID=3044) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:42,821] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:21:42,822] {logging_mixin.py:104} INFO - [2021-07-23 16:21:42,821] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:42,855] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:43,049] {logging_mixin.py:104} INFO - [2021-07-23 16:21:43,048] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:43,080] {logging_mixin.py:104} INFO - [2021-07-23 16:21:43,080] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:43,274] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.461 seconds
+[2021-07-23 16:21:47,225] {scheduler_job.py:181} INFO - Started process (PID=3105) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:47,226] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:21:47,233] {logging_mixin.py:104} INFO - [2021-07-23 16:21:47,233] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:47,275] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:47,449] {logging_mixin.py:104} INFO - [2021-07-23 16:21:47,448] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:47,470] {logging_mixin.py:104} INFO - [2021-07-23 16:21:47,470] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:47,486] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.265 seconds
+[2021-07-23 16:21:50,393] {scheduler_job.py:181} INFO - Started process (PID=3164) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:50,395] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:21:50,396] {logging_mixin.py:104} INFO - [2021-07-23 16:21:50,395] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:50,410] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:50,502] {logging_mixin.py:104} INFO - [2021-07-23 16:21:50,502] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:50,547] {logging_mixin.py:104} INFO - [2021-07-23 16:21:50,547] {dag.py:2306} INFO - Setting next_dagrun for latest_only to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:50,571] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.184 seconds
+[2021-07-23 16:21:54,101] {scheduler_job.py:181} INFO - Started process (PID=3225) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:54,102] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-07-23 16:21:54,103] {logging_mixin.py:104} INFO - [2021-07-23 16:21:54,102] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:54,115] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-07-23 16:21:54,199] {logging_mixin.py:104} INFO - [2021-07-23 16:21:54,199] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:54,366] {logging_mixin.py:104} INFO - [2021-07-23 16:21:54,366] {process_utils.py:207} INFO - Waiting up to 5 seconds for processes to exit...

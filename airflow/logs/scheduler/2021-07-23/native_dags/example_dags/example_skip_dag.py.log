@@ -1,0 +1,266 @@
+[2021-07-23 16:19:57,145] {scheduler_job.py:181} INFO - Started process (PID=819) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:19:57,146] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:19:57,147] {logging_mixin.py:104} INFO - [2021-07-23 16:19:57,146] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:19:57,157] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:19:57,345] {logging_mixin.py:104} INFO - [2021-07-23 16:19:57,345] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:19:57,354] {logging_mixin.py:104} INFO - [2021-07-23 16:19:57,354] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:19:57,364] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.222 seconds
+[2021-07-23 16:19:59,758] {scheduler_job.py:181} INFO - Started process (PID=882) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:19:59,760] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:19:59,761] {logging_mixin.py:104} INFO - [2021-07-23 16:19:59,761] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:19:59,777] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:19:59,794] {logging_mixin.py:104} INFO - [2021-07-23 16:19:59,794] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:19:59,856] {logging_mixin.py:104} INFO - [2021-07-23 16:19:59,856] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:19:59,864] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.109 seconds
+[2021-07-23 16:20:01,551] {scheduler_job.py:181} INFO - Started process (PID=942) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:01,552] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:20:01,565] {logging_mixin.py:104} INFO - [2021-07-23 16:20:01,552] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:01,578] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:01,598] {logging_mixin.py:104} INFO - [2021-07-23 16:20:01,598] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:01,723] {logging_mixin.py:104} INFO - [2021-07-23 16:20:01,723] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:01,742] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.194 seconds
+[2021-07-23 16:20:03,607] {scheduler_job.py:181} INFO - Started process (PID=1045) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:03,609] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:20:03,610] {logging_mixin.py:104} INFO - [2021-07-23 16:20:03,610] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:03,621] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:03,662] {logging_mixin.py:104} INFO - [2021-07-23 16:20:03,661] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:03,725] {logging_mixin.py:104} INFO - [2021-07-23 16:20:03,725] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:03,734] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.130 seconds
+[2021-07-23 16:20:05,535] {scheduler_job.py:181} INFO - Started process (PID=1113) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:05,536] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:20:05,537] {logging_mixin.py:104} INFO - [2021-07-23 16:20:05,537] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:05,547] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:05,569] {logging_mixin.py:104} INFO - [2021-07-23 16:20:05,569] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:05,631] {logging_mixin.py:104} INFO - [2021-07-23 16:20:05,631] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:05,639] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.106 seconds
+[2021-07-23 16:20:07,421] {scheduler_job.py:181} INFO - Started process (PID=1174) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:07,422] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:20:07,422] {logging_mixin.py:104} INFO - [2021-07-23 16:20:07,422] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:07,435] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:07,457] {logging_mixin.py:104} INFO - [2021-07-23 16:20:07,456] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:07,501] {logging_mixin.py:104} INFO - [2021-07-23 16:20:07,501] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:07,514] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.095 seconds
+[2021-07-23 16:20:09,506] {scheduler_job.py:181} INFO - Started process (PID=1254) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:09,506] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:20:09,507] {logging_mixin.py:104} INFO - [2021-07-23 16:20:09,507] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:09,518] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:09,547] {logging_mixin.py:104} INFO - [2021-07-23 16:20:09,547] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:09,607] {logging_mixin.py:104} INFO - [2021-07-23 16:20:09,606] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:09,619] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.116 seconds
+[2021-07-23 16:20:11,392] {scheduler_job.py:181} INFO - Started process (PID=1316) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:11,392] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:20:11,393] {logging_mixin.py:104} INFO - [2021-07-23 16:20:11,393] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:11,404] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:11,438] {logging_mixin.py:104} INFO - [2021-07-23 16:20:11,438] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:11,497] {logging_mixin.py:104} INFO - [2021-07-23 16:20:11,497] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:11,507] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.118 seconds
+[2021-07-23 16:20:13,460] {scheduler_job.py:181} INFO - Started process (PID=1378) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:13,461] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:20:13,462] {logging_mixin.py:104} INFO - [2021-07-23 16:20:13,462] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:13,475] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:13,512] {logging_mixin.py:104} INFO - [2021-07-23 16:20:13,512] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:13,583] {logging_mixin.py:104} INFO - [2021-07-23 16:20:13,583] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:13,606] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.149 seconds
+[2021-07-23 16:20:15,849] {scheduler_job.py:181} INFO - Started process (PID=1437) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:15,851] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:20:15,852] {logging_mixin.py:104} INFO - [2021-07-23 16:20:15,852] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:15,865] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:15,895] {logging_mixin.py:104} INFO - [2021-07-23 16:20:15,895] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:15,963] {logging_mixin.py:104} INFO - [2021-07-23 16:20:15,963] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:15,983] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.138 seconds
+[2021-07-23 16:20:18,246] {scheduler_job.py:181} INFO - Started process (PID=1497) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:18,247] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:20:18,248] {logging_mixin.py:104} INFO - [2021-07-23 16:20:18,248] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:18,262] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:18,281] {logging_mixin.py:104} INFO - [2021-07-23 16:20:18,281] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:18,350] {logging_mixin.py:104} INFO - [2021-07-23 16:20:18,350] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:18,364] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.121 seconds
+[2021-07-23 16:20:20,590] {scheduler_job.py:181} INFO - Started process (PID=1558) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:20,591] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:20:20,591] {logging_mixin.py:104} INFO - [2021-07-23 16:20:20,591] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:20,604] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:20,627] {logging_mixin.py:104} INFO - [2021-07-23 16:20:20,627] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:20,696] {logging_mixin.py:104} INFO - [2021-07-23 16:20:20,695] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:20,707] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.121 seconds
+[2021-07-23 16:20:23,186] {scheduler_job.py:181} INFO - Started process (PID=1619) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:23,187] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:20:23,188] {logging_mixin.py:104} INFO - [2021-07-23 16:20:23,188] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:23,234] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:23,268] {logging_mixin.py:104} INFO - [2021-07-23 16:20:23,268] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:23,341] {logging_mixin.py:104} INFO - [2021-07-23 16:20:23,341] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:23,351] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.168 seconds
+[2021-07-23 16:20:26,009] {scheduler_job.py:181} INFO - Started process (PID=1683) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:26,010] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:20:26,011] {logging_mixin.py:104} INFO - [2021-07-23 16:20:26,011] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:26,025] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:26,061] {logging_mixin.py:104} INFO - [2021-07-23 16:20:26,061] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:26,164] {logging_mixin.py:104} INFO - [2021-07-23 16:20:26,164] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:26,198] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.201 seconds
+[2021-07-23 16:20:29,709] {scheduler_job.py:181} INFO - Started process (PID=1745) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:29,713] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:20:29,716] {logging_mixin.py:104} INFO - [2021-07-23 16:20:29,716] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:29,778] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:30,638] {logging_mixin.py:104} INFO - [2021-07-23 16:20:30,638] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:30,730] {logging_mixin.py:104} INFO - [2021-07-23 16:20:30,730] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:30,809] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 1.104 seconds
+[2021-07-23 16:20:39,216] {scheduler_job.py:181} INFO - Started process (PID=1823) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:39,239] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:20:39,240] {logging_mixin.py:104} INFO - [2021-07-23 16:20:39,240] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:39,282] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:39,493] {logging_mixin.py:104} INFO - [2021-07-23 16:20:39,493] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:39,522] {logging_mixin.py:104} INFO - [2021-07-23 16:20:39,522] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:39,610] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.398 seconds
+[2021-07-23 16:20:45,719] {scheduler_job.py:181} INFO - Started process (PID=1886) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:45,720] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:20:45,739] {logging_mixin.py:104} INFO - [2021-07-23 16:20:45,738] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:45,782] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:46,218] {logging_mixin.py:104} INFO - [2021-07-23 16:20:46,218] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:46,250] {logging_mixin.py:104} INFO - [2021-07-23 16:20:46,250] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:46,266] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.558 seconds
+[2021-07-23 16:20:53,118] {scheduler_job.py:181} INFO - Started process (PID=1947) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:53,136] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:20:53,140] {logging_mixin.py:104} INFO - [2021-07-23 16:20:53,140] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:53,184] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:53,374] {logging_mixin.py:104} INFO - [2021-07-23 16:20:53,374] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:53,396] {logging_mixin.py:104} INFO - [2021-07-23 16:20:53,396] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:53,450] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.338 seconds
+[2021-07-23 16:20:57,383] {scheduler_job.py:181} INFO - Started process (PID=2007) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:57,384] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:20:57,385] {logging_mixin.py:104} INFO - [2021-07-23 16:20:57,385] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:57,408] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:20:57,506] {logging_mixin.py:104} INFO - [2021-07-23 16:20:57,506] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:57,526] {logging_mixin.py:104} INFO - [2021-07-23 16:20:57,526] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:57,540] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.161 seconds
+[2021-07-23 16:21:01,117] {scheduler_job.py:181} INFO - Started process (PID=2067) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:01,118] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:21:01,119] {logging_mixin.py:104} INFO - [2021-07-23 16:21:01,119] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:01,147] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:01,284] {logging_mixin.py:104} INFO - [2021-07-23 16:21:01,284] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:01,323] {logging_mixin.py:104} INFO - [2021-07-23 16:21:01,322] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:01,346] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.232 seconds
+[2021-07-23 16:21:04,770] {scheduler_job.py:181} INFO - Started process (PID=2127) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:04,771] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:21:04,772] {logging_mixin.py:104} INFO - [2021-07-23 16:21:04,772] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:04,789] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:04,887] {logging_mixin.py:104} INFO - [2021-07-23 16:21:04,887] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:04,906] {logging_mixin.py:104} INFO - [2021-07-23 16:21:04,905] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:04,918] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.151 seconds
+[2021-07-23 16:21:07,376] {scheduler_job.py:181} INFO - Started process (PID=2188) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:07,377] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:21:07,379] {logging_mixin.py:104} INFO - [2021-07-23 16:21:07,378] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:07,401] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:07,526] {logging_mixin.py:104} INFO - [2021-07-23 16:21:07,526] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:07,543] {logging_mixin.py:104} INFO - [2021-07-23 16:21:07,543] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:07,559] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.186 seconds
+[2021-07-23 16:21:10,396] {scheduler_job.py:181} INFO - Started process (PID=2291) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:10,397] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:21:10,398] {logging_mixin.py:104} INFO - [2021-07-23 16:21:10,397] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:10,432] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:10,528] {logging_mixin.py:104} INFO - [2021-07-23 16:21:10,528] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:10,543] {logging_mixin.py:104} INFO - [2021-07-23 16:21:10,543] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:10,556] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.163 seconds
+[2021-07-23 16:21:13,120] {scheduler_job.py:181} INFO - Started process (PID=2359) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:13,121] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:21:13,121] {logging_mixin.py:104} INFO - [2021-07-23 16:21:13,121] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:13,136] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:13,237] {logging_mixin.py:104} INFO - [2021-07-23 16:21:13,237] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:13,251] {logging_mixin.py:104} INFO - [2021-07-23 16:21:13,250] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:13,267] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.151 seconds
+[2021-07-23 16:21:15,684] {scheduler_job.py:181} INFO - Started process (PID=2418) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:15,685] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:21:15,686] {logging_mixin.py:104} INFO - [2021-07-23 16:21:15,686] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:15,699] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:15,776] {logging_mixin.py:104} INFO - [2021-07-23 16:21:15,776] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:15,791] {logging_mixin.py:104} INFO - [2021-07-23 16:21:15,791] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:15,803] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.129 seconds
+[2021-07-23 16:21:17,949] {scheduler_job.py:181} INFO - Started process (PID=2479) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:17,950] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:21:17,950] {logging_mixin.py:104} INFO - [2021-07-23 16:21:17,950] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:17,964] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:18,053] {logging_mixin.py:104} INFO - [2021-07-23 16:21:18,053] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:18,075] {logging_mixin.py:104} INFO - [2021-07-23 16:21:18,075] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:18,091] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.145 seconds
+[2021-07-23 16:21:20,243] {scheduler_job.py:181} INFO - Started process (PID=2538) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:20,246] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:21:20,248] {logging_mixin.py:104} INFO - [2021-07-23 16:21:20,248] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:20,265] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:20,355] {logging_mixin.py:104} INFO - [2021-07-23 16:21:20,355] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:20,368] {logging_mixin.py:104} INFO - [2021-07-23 16:21:20,367] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:20,381] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.141 seconds
+[2021-07-23 16:21:22,880] {scheduler_job.py:181} INFO - Started process (PID=2599) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:22,885] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:21:22,887] {logging_mixin.py:104} INFO - [2021-07-23 16:21:22,887] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:22,913] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:22,995] {logging_mixin.py:104} INFO - [2021-07-23 16:21:22,995] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:23,010] {logging_mixin.py:104} INFO - [2021-07-23 16:21:23,010] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:23,022] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.148 seconds
+[2021-07-23 16:21:25,248] {scheduler_job.py:181} INFO - Started process (PID=2658) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:25,249] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:21:25,250] {logging_mixin.py:104} INFO - [2021-07-23 16:21:25,250] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:25,264] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:25,360] {logging_mixin.py:104} INFO - [2021-07-23 16:21:25,360] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:25,372] {logging_mixin.py:104} INFO - [2021-07-23 16:21:25,372] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:25,384] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.139 seconds
+[2021-07-23 16:21:27,689] {scheduler_job.py:181} INFO - Started process (PID=2740) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:27,690] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:21:27,691] {logging_mixin.py:104} INFO - [2021-07-23 16:21:27,691] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:27,716] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:27,795] {logging_mixin.py:104} INFO - [2021-07-23 16:21:27,795] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:27,810] {logging_mixin.py:104} INFO - [2021-07-23 16:21:27,810] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:27,820] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.135 seconds
+[2021-07-23 16:21:30,411] {scheduler_job.py:181} INFO - Started process (PID=2800) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:30,412] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:21:30,413] {logging_mixin.py:104} INFO - [2021-07-23 16:21:30,413] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:30,430] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:30,534] {logging_mixin.py:104} INFO - [2021-07-23 16:21:30,534] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:30,550] {logging_mixin.py:104} INFO - [2021-07-23 16:21:30,550] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:30,564] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.156 seconds
+[2021-07-23 16:21:33,471] {scheduler_job.py:181} INFO - Started process (PID=2860) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:33,474] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:21:33,475] {logging_mixin.py:104} INFO - [2021-07-23 16:21:33,475] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:33,499] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:33,646] {logging_mixin.py:104} INFO - [2021-07-23 16:21:33,646] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:33,673] {logging_mixin.py:104} INFO - [2021-07-23 16:21:33,673] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:33,686] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.219 seconds
+[2021-07-23 16:21:36,701] {scheduler_job.py:181} INFO - Started process (PID=2920) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:36,707] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:21:36,708] {logging_mixin.py:104} INFO - [2021-07-23 16:21:36,708] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:36,728] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:36,823] {logging_mixin.py:104} INFO - [2021-07-23 16:21:36,823] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:36,841] {logging_mixin.py:104} INFO - [2021-07-23 16:21:36,841] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:36,860] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.164 seconds
+[2021-07-23 16:21:39,428] {scheduler_job.py:181} INFO - Started process (PID=2980) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:39,437] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:21:39,441] {logging_mixin.py:104} INFO - [2021-07-23 16:21:39,440] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:39,463] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:39,553] {logging_mixin.py:104} INFO - [2021-07-23 16:21:39,553] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:39,571] {logging_mixin.py:104} INFO - [2021-07-23 16:21:39,571] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:39,591] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.165 seconds
+[2021-07-23 16:21:42,613] {scheduler_job.py:181} INFO - Started process (PID=3040) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:42,614] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:21:42,615] {logging_mixin.py:104} INFO - [2021-07-23 16:21:42,615] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:42,633] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:42,750] {logging_mixin.py:104} INFO - [2021-07-23 16:21:42,750] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:42,765] {logging_mixin.py:104} INFO - [2021-07-23 16:21:42,765] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:42,788] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.178 seconds
+[2021-07-23 16:21:46,959] {scheduler_job.py:181} INFO - Started process (PID=3099) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:46,962] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:21:46,965] {logging_mixin.py:104} INFO - [2021-07-23 16:21:46,965] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:46,993] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:47,144] {logging_mixin.py:104} INFO - [2021-07-23 16:21:47,144] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:47,171] {logging_mixin.py:104} INFO - [2021-07-23 16:21:47,171] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:47,199] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.250 seconds
+[2021-07-23 16:21:50,228] {scheduler_job.py:181} INFO - Started process (PID=3160) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:50,229] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:21:50,230] {logging_mixin.py:104} INFO - [2021-07-23 16:21:50,230] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:50,251] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:50,347] {logging_mixin.py:104} INFO - [2021-07-23 16:21:50,347] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:50,361] {logging_mixin.py:104} INFO - [2021-07-23 16:21:50,361] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:50,371] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.147 seconds
+[2021-07-23 16:21:53,957] {scheduler_job.py:181} INFO - Started process (PID=3221) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:53,958] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-23 16:21:53,959] {logging_mixin.py:104} INFO - [2021-07-23 16:21:53,959] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:53,972] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-23 16:21:54,059] {logging_mixin.py:104} INFO - [2021-07-23 16:21:54,059] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:54,072] {logging_mixin.py:104} INFO - [2021-07-23 16:21:54,072] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:54,085] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.131 seconds

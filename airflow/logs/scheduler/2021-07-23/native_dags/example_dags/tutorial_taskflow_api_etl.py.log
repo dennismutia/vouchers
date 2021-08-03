@@ -1,0 +1,266 @@
+[2021-07-23 16:19:54,899] {scheduler_job.py:181} INFO - Started process (PID=785) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:19:54,900] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:19:54,901] {logging_mixin.py:104} INFO - [2021-07-23 16:19:54,900] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:19:54,914] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:19:55,184] {logging_mixin.py:104} INFO - [2021-07-23 16:19:55,184] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:19:55,195] {logging_mixin.py:104} INFO - [2021-07-23 16:19:55,195] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:19:55,225] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.329 seconds
+[2021-07-23 16:19:58,892] {scheduler_job.py:181} INFO - Started process (PID=850) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:19:58,893] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:19:58,894] {logging_mixin.py:104} INFO - [2021-07-23 16:19:58,893] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:19:58,908] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:19:58,965] {logging_mixin.py:104} INFO - [2021-07-23 16:19:58,965] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:19:58,974] {logging_mixin.py:104} INFO - [2021-07-23 16:19:58,974] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:19:58,983] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.093 seconds
+[2021-07-23 16:20:00,649] {scheduler_job.py:181} INFO - Started process (PID=910) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:00,650] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:20:00,651] {logging_mixin.py:104} INFO - [2021-07-23 16:20:00,651] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:00,665] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:00,726] {logging_mixin.py:104} INFO - [2021-07-23 16:20:00,725] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:00,738] {logging_mixin.py:104} INFO - [2021-07-23 16:20:00,738] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:20:00,750] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.104 seconds
+[2021-07-23 16:20:02,646] {scheduler_job.py:181} INFO - Started process (PID=1012) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:02,646] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:20:02,647] {logging_mixin.py:104} INFO - [2021-07-23 16:20:02,647] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:02,662] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:02,721] {logging_mixin.py:104} INFO - [2021-07-23 16:20:02,721] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:02,731] {logging_mixin.py:104} INFO - [2021-07-23 16:20:02,731] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:20:02,744] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.101 seconds
+[2021-07-23 16:20:04,626] {scheduler_job.py:181} INFO - Started process (PID=1081) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:04,627] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:20:04,627] {logging_mixin.py:104} INFO - [2021-07-23 16:20:04,627] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:04,642] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:04,699] {logging_mixin.py:104} INFO - [2021-07-23 16:20:04,699] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:04,733] {logging_mixin.py:104} INFO - [2021-07-23 16:20:04,733] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:20:04,769] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.145 seconds
+[2021-07-23 16:20:06,389] {scheduler_job.py:181} INFO - Started process (PID=1141) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:06,389] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:20:06,390] {logging_mixin.py:104} INFO - [2021-07-23 16:20:06,390] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:06,405] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:06,471] {logging_mixin.py:104} INFO - [2021-07-23 16:20:06,471] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:06,482] {logging_mixin.py:104} INFO - [2021-07-23 16:20:06,482] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:20:06,491] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.105 seconds
+[2021-07-23 16:20:08,474] {scheduler_job.py:181} INFO - Started process (PID=1208) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:08,475] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:20:08,476] {logging_mixin.py:104} INFO - [2021-07-23 16:20:08,475] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:08,494] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:08,562] {logging_mixin.py:104} INFO - [2021-07-23 16:20:08,561] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:08,574] {logging_mixin.py:104} INFO - [2021-07-23 16:20:08,574] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:20:08,583] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.111 seconds
+[2021-07-23 16:20:10,397] {scheduler_job.py:181} INFO - Started process (PID=1284) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:10,398] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:20:10,398] {logging_mixin.py:104} INFO - [2021-07-23 16:20:10,398] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:10,411] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:10,468] {logging_mixin.py:104} INFO - [2021-07-23 16:20:10,468] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:10,482] {logging_mixin.py:104} INFO - [2021-07-23 16:20:10,482] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:20:10,518] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.123 seconds
+[2021-07-23 16:20:12,321] {scheduler_job.py:181} INFO - Started process (PID=1346) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:12,322] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:20:12,323] {logging_mixin.py:104} INFO - [2021-07-23 16:20:12,322] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:12,341] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:12,412] {logging_mixin.py:104} INFO - [2021-07-23 16:20:12,412] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:12,429] {logging_mixin.py:104} INFO - [2021-07-23 16:20:12,429] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:20:12,443] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.126 seconds
+[2021-07-23 16:20:14,574] {scheduler_job.py:181} INFO - Started process (PID=1406) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:14,576] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:20:14,576] {logging_mixin.py:104} INFO - [2021-07-23 16:20:14,576] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:14,599] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:14,693] {logging_mixin.py:104} INFO - [2021-07-23 16:20:14,693] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:14,706] {logging_mixin.py:104} INFO - [2021-07-23 16:20:14,706] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:20:14,725] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.155 seconds
+[2021-07-23 16:20:17,062] {scheduler_job.py:181} INFO - Started process (PID=1466) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:17,063] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:20:17,064] {logging_mixin.py:104} INFO - [2021-07-23 16:20:17,064] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:17,084] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:17,182] {logging_mixin.py:104} INFO - [2021-07-23 16:20:17,181] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:17,198] {logging_mixin.py:104} INFO - [2021-07-23 16:20:17,197] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:20:17,214] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.156 seconds
+[2021-07-23 16:20:19,312] {scheduler_job.py:181} INFO - Started process (PID=1526) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:19,314] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:20:19,317] {logging_mixin.py:104} INFO - [2021-07-23 16:20:19,317] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:19,339] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:19,428] {logging_mixin.py:104} INFO - [2021-07-23 16:20:19,428] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:19,443] {logging_mixin.py:104} INFO - [2021-07-23 16:20:19,443] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:20:19,456] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.147 seconds
+[2021-07-23 16:20:21,676] {scheduler_job.py:181} INFO - Started process (PID=1586) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:21,677] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:20:21,678] {logging_mixin.py:104} INFO - [2021-07-23 16:20:21,678] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:21,696] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:21,773] {logging_mixin.py:104} INFO - [2021-07-23 16:20:21,773] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:21,786] {logging_mixin.py:104} INFO - [2021-07-23 16:20:21,786] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:20:21,805] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.133 seconds
+[2021-07-23 16:20:24,510] {scheduler_job.py:181} INFO - Started process (PID=1651) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:24,513] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:20:24,515] {logging_mixin.py:104} INFO - [2021-07-23 16:20:24,515] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:24,541] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:24,645] {logging_mixin.py:104} INFO - [2021-07-23 16:20:24,645] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:24,663] {logging_mixin.py:104} INFO - [2021-07-23 16:20:24,663] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:20:24,675] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.168 seconds
+[2021-07-23 16:20:27,303] {scheduler_job.py:181} INFO - Started process (PID=1713) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:27,305] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:20:27,308] {logging_mixin.py:104} INFO - [2021-07-23 16:20:27,307] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:27,398] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:27,742] {logging_mixin.py:104} INFO - [2021-07-23 16:20:27,741] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:27,756] {logging_mixin.py:104} INFO - [2021-07-23 16:20:27,755] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:20:27,769] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.470 seconds
+[2021-07-23 16:20:34,687] {scheduler_job.py:181} INFO - Started process (PID=1779) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:34,689] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:20:34,717] {logging_mixin.py:104} INFO - [2021-07-23 16:20:34,717] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:35,275] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:35,319] {logging_mixin.py:104} INFO - [2021-07-23 16:20:35,319] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:35,353] {logging_mixin.py:104} INFO - [2021-07-23 16:20:35,353] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:20:35,397] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.772 seconds
+[2021-07-23 16:20:42,019] {scheduler_job.py:181} INFO - Started process (PID=1854) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:42,034] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:20:42,048] {logging_mixin.py:104} INFO - [2021-07-23 16:20:42,048] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:42,259] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:42,303] {logging_mixin.py:104} INFO - [2021-07-23 16:20:42,303] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:42,331] {logging_mixin.py:104} INFO - [2021-07-23 16:20:42,331] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:20:42,360] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.345 seconds
+[2021-07-23 16:20:49,741] {scheduler_job.py:181} INFO - Started process (PID=1915) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:49,743] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:20:49,744] {logging_mixin.py:104} INFO - [2021-07-23 16:20:49,744] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:49,954] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:50,065] {logging_mixin.py:104} INFO - [2021-07-23 16:20:50,065] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:50,142] {logging_mixin.py:104} INFO - [2021-07-23 16:20:50,141] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:20:50,165] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.427 seconds
+[2021-07-23 16:20:55,270] {scheduler_job.py:181} INFO - Started process (PID=1975) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:55,272] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:20:55,273] {logging_mixin.py:104} INFO - [2021-07-23 16:20:55,273] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:55,402] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:55,435] {logging_mixin.py:104} INFO - [2021-07-23 16:20:55,435] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:55,460] {logging_mixin.py:104} INFO - [2021-07-23 16:20:55,460] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:20:55,490] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.224 seconds
+[2021-07-23 16:20:58,655] {scheduler_job.py:181} INFO - Started process (PID=2035) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:58,656] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:20:58,656] {logging_mixin.py:104} INFO - [2021-07-23 16:20:58,656] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:58,738] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:20:59,129] {logging_mixin.py:104} INFO - [2021-07-23 16:20:59,129] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:59,143] {logging_mixin.py:104} INFO - [2021-07-23 16:20:59,143] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:20:59,160] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.509 seconds
+[2021-07-23 16:21:03,261] {scheduler_job.py:181} INFO - Started process (PID=2095) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:03,264] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:21:03,269] {logging_mixin.py:104} INFO - [2021-07-23 16:21:03,268] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:03,399] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:03,445] {logging_mixin.py:104} INFO - [2021-07-23 16:21:03,445] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:03,479] {logging_mixin.py:104} INFO - [2021-07-23 16:21:03,479] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:21:03,500] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.245 seconds
+[2021-07-23 16:21:05,844] {scheduler_job.py:181} INFO - Started process (PID=2155) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:05,845] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:21:05,846] {logging_mixin.py:104} INFO - [2021-07-23 16:21:05,846] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:05,926] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:05,947] {logging_mixin.py:104} INFO - [2021-07-23 16:21:05,947] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:05,963] {logging_mixin.py:104} INFO - [2021-07-23 16:21:05,963] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:21:05,974] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.133 seconds
+[2021-07-23 16:21:08,672] {scheduler_job.py:181} INFO - Started process (PID=2216) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:08,673] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:21:08,673] {logging_mixin.py:104} INFO - [2021-07-23 16:21:08,673] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:08,860] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:08,902] {logging_mixin.py:104} INFO - [2021-07-23 16:21:08,902] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:08,931] {logging_mixin.py:104} INFO - [2021-07-23 16:21:08,931] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:21:08,959] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.293 seconds
+[2021-07-23 16:21:11,877] {scheduler_job.py:181} INFO - Started process (PID=2327) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:11,878] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:21:11,879] {logging_mixin.py:104} INFO - [2021-07-23 16:21:11,879] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:11,974] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:11,995] {logging_mixin.py:104} INFO - [2021-07-23 16:21:11,995] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:12,014] {logging_mixin.py:104} INFO - [2021-07-23 16:21:12,014] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:21:12,033] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.163 seconds
+[2021-07-23 16:21:14,258] {scheduler_job.py:181} INFO - Started process (PID=2387) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:14,259] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:21:14,259] {logging_mixin.py:104} INFO - [2021-07-23 16:21:14,259] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:14,330] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:14,348] {logging_mixin.py:104} INFO - [2021-07-23 16:21:14,348] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:14,362] {logging_mixin.py:104} INFO - [2021-07-23 16:21:14,362] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:21:14,372] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.118 seconds
+[2021-07-23 16:21:16,741] {scheduler_job.py:181} INFO - Started process (PID=2447) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:16,742] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:21:16,743] {logging_mixin.py:104} INFO - [2021-07-23 16:21:16,743] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:16,820] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:16,847] {logging_mixin.py:104} INFO - [2021-07-23 16:21:16,847] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:16,863] {logging_mixin.py:104} INFO - [2021-07-23 16:21:16,863] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:21:16,884] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.146 seconds
+[2021-07-23 16:21:19,040] {scheduler_job.py:181} INFO - Started process (PID=2507) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:19,041] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:21:19,041] {logging_mixin.py:104} INFO - [2021-07-23 16:21:19,041] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:19,122] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:19,139] {logging_mixin.py:104} INFO - [2021-07-23 16:21:19,139] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:19,151] {logging_mixin.py:104} INFO - [2021-07-23 16:21:19,151] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:21:19,167] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.131 seconds
+[2021-07-23 16:21:21,539] {scheduler_job.py:181} INFO - Started process (PID=2567) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:21,540] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:21:21,541] {logging_mixin.py:104} INFO - [2021-07-23 16:21:21,540] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:21,619] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:21,637] {logging_mixin.py:104} INFO - [2021-07-23 16:21:21,637] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:21,651] {logging_mixin.py:104} INFO - [2021-07-23 16:21:21,651] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:21:21,665] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.129 seconds
+[2021-07-23 16:21:23,995] {scheduler_job.py:181} INFO - Started process (PID=2627) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:23,996] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:21:23,997] {logging_mixin.py:104} INFO - [2021-07-23 16:21:23,996] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:24,077] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:24,098] {logging_mixin.py:104} INFO - [2021-07-23 16:21:24,098] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:24,110] {logging_mixin.py:104} INFO - [2021-07-23 16:21:24,110] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:21:24,124] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.133 seconds
+[2021-07-23 16:21:26,495] {scheduler_job.py:181} INFO - Started process (PID=2706) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:26,502] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:21:26,517] {logging_mixin.py:104} INFO - [2021-07-23 16:21:26,517] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:26,604] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:26,627] {logging_mixin.py:104} INFO - [2021-07-23 16:21:26,627] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:26,642] {logging_mixin.py:104} INFO - [2021-07-23 16:21:26,642] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:21:26,663] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.173 seconds
+[2021-07-23 16:21:28,879] {scheduler_job.py:181} INFO - Started process (PID=2768) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:28,882] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:21:28,884] {logging_mixin.py:104} INFO - [2021-07-23 16:21:28,884] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:28,972] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:29,214] {logging_mixin.py:104} INFO - [2021-07-23 16:21:29,214] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:29,227] {logging_mixin.py:104} INFO - [2021-07-23 16:21:29,227] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:21:29,244] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.367 seconds
+[2021-07-23 16:21:31,676] {scheduler_job.py:181} INFO - Started process (PID=2828) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:31,682] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:21:31,684] {logging_mixin.py:104} INFO - [2021-07-23 16:21:31,684] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:31,776] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:31,803] {logging_mixin.py:104} INFO - [2021-07-23 16:21:31,803] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:31,819] {logging_mixin.py:104} INFO - [2021-07-23 16:21:31,819] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:21:31,837] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.164 seconds
+[2021-07-23 16:21:34,949] {scheduler_job.py:181} INFO - Started process (PID=2888) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:34,954] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:21:34,956] {logging_mixin.py:104} INFO - [2021-07-23 16:21:34,956] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:35,053] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:35,085] {logging_mixin.py:104} INFO - [2021-07-23 16:21:35,085] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:35,115] {logging_mixin.py:104} INFO - [2021-07-23 16:21:35,115] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:21:35,152] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.215 seconds
+[2021-07-23 16:21:38,171] {scheduler_job.py:181} INFO - Started process (PID=2948) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:38,172] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:21:38,173] {logging_mixin.py:104} INFO - [2021-07-23 16:21:38,173] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:38,246] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:38,269] {logging_mixin.py:104} INFO - [2021-07-23 16:21:38,269] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:38,283] {logging_mixin.py:104} INFO - [2021-07-23 16:21:38,283] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:21:38,296] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.128 seconds
+[2021-07-23 16:21:40,816] {scheduler_job.py:181} INFO - Started process (PID=3008) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:40,817] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:21:40,818] {logging_mixin.py:104} INFO - [2021-07-23 16:21:40,818] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:40,900] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:40,925] {logging_mixin.py:104} INFO - [2021-07-23 16:21:40,925] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:40,939] {logging_mixin.py:104} INFO - [2021-07-23 16:21:40,938] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:21:40,951] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.139 seconds
+[2021-07-23 16:21:44,778] {scheduler_job.py:181} INFO - Started process (PID=3067) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:44,790] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:21:44,794] {logging_mixin.py:104} INFO - [2021-07-23 16:21:44,794] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:44,944] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:44,978] {logging_mixin.py:104} INFO - [2021-07-23 16:21:44,978] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:44,994] {logging_mixin.py:104} INFO - [2021-07-23 16:21:44,994] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:21:45,021] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.258 seconds
+[2021-07-23 16:21:48,704] {scheduler_job.py:181} INFO - Started process (PID=3129) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:48,712] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:21:48,722] {logging_mixin.py:104} INFO - [2021-07-23 16:21:48,720] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:48,834] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:48,858] {logging_mixin.py:104} INFO - [2021-07-23 16:21:48,858] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:48,874] {logging_mixin.py:104} INFO - [2021-07-23 16:21:48,874] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:21:48,894] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.194 seconds
+[2021-07-23 16:21:52,094] {scheduler_job.py:181} INFO - Started process (PID=3189) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:52,099] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2021-07-23 16:21:52,104] {logging_mixin.py:104} INFO - [2021-07-23 16:21:52,104] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:52,208] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2021-07-23 16:21:52,233] {logging_mixin.py:104} INFO - [2021-07-23 16:21:52,233] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:52,250] {logging_mixin.py:104} INFO - [2021-07-23 16:21:52,250] {dag.py:2306} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2021-07-23 16:21:52,268] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.177 seconds

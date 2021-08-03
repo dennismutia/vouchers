@@ -1,0 +1,266 @@
+[2021-07-23 16:19:56,732] {scheduler_job.py:181} INFO - Started process (PID=811) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:19:56,733] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:19:56,733] {logging_mixin.py:104} INFO - [2021-07-23 16:19:56,733] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:19:56,742] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:19:56,939] {logging_mixin.py:104} INFO - [2021-07-23 16:19:56,939] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:19:56,951] {logging_mixin.py:104} INFO - [2021-07-23 16:19:56,951] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:19:56,964] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.234 seconds
+[2021-07-23 16:19:59,532] {scheduler_job.py:181} INFO - Started process (PID=873) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:19:59,533] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:19:59,533] {logging_mixin.py:104} INFO - [2021-07-23 16:19:59,533] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:19:59,545] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:19:59,559] {logging_mixin.py:104} INFO - [2021-07-23 16:19:59,559] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:19:59,612] {logging_mixin.py:104} INFO - [2021-07-23 16:19:59,612] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:19:59,628] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.098 seconds
+[2021-07-23 16:20:01,319] {scheduler_job.py:181} INFO - Started process (PID=934) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:01,322] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:20:01,323] {logging_mixin.py:104} INFO - [2021-07-23 16:20:01,322] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:01,334] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:01,349] {logging_mixin.py:104} INFO - [2021-07-23 16:20:01,349] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:01,405] {logging_mixin.py:104} INFO - [2021-07-23 16:20:01,404] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:01,419] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.101 seconds
+[2021-07-23 16:20:03,373] {scheduler_job.py:181} INFO - Started process (PID=1036) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:03,375] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:20:03,375] {logging_mixin.py:104} INFO - [2021-07-23 16:20:03,375] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:03,386] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:03,401] {logging_mixin.py:104} INFO - [2021-07-23 16:20:03,401] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:03,457] {logging_mixin.py:104} INFO - [2021-07-23 16:20:03,457] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:03,466] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.095 seconds
+[2021-07-23 16:20:05,314] {scheduler_job.py:181} INFO - Started process (PID=1105) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:05,315] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:20:05,315] {logging_mixin.py:104} INFO - [2021-07-23 16:20:05,315] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:05,326] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:05,343] {logging_mixin.py:104} INFO - [2021-07-23 16:20:05,343] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:05,399] {logging_mixin.py:104} INFO - [2021-07-23 16:20:05,398] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:05,408] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.096 seconds
+[2021-07-23 16:20:07,165] {scheduler_job.py:181} INFO - Started process (PID=1166) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:07,166] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:20:07,167] {logging_mixin.py:104} INFO - [2021-07-23 16:20:07,167] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:07,183] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:07,208] {logging_mixin.py:104} INFO - [2021-07-23 16:20:07,208] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:07,266] {logging_mixin.py:104} INFO - [2021-07-23 16:20:07,266] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:07,283] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.122 seconds
+[2021-07-23 16:20:09,183] {scheduler_job.py:181} INFO - Started process (PID=1245) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:09,184] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:20:09,184] {logging_mixin.py:104} INFO - [2021-07-23 16:20:09,184] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:09,195] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:09,214] {logging_mixin.py:104} INFO - [2021-07-23 16:20:09,214] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:09,325] {logging_mixin.py:104} INFO - [2021-07-23 16:20:09,325] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:09,333] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.152 seconds
+[2021-07-23 16:20:11,158] {scheduler_job.py:181} INFO - Started process (PID=1308) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:11,159] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:20:11,160] {logging_mixin.py:104} INFO - [2021-07-23 16:20:11,160] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:11,171] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:11,189] {logging_mixin.py:104} INFO - [2021-07-23 16:20:11,189] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:11,251] {logging_mixin.py:104} INFO - [2021-07-23 16:20:11,251] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:11,259] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.103 seconds
+[2021-07-23 16:20:13,162] {scheduler_job.py:181} INFO - Started process (PID=1369) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:13,163] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:20:13,164] {logging_mixin.py:104} INFO - [2021-07-23 16:20:13,164] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:13,178] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:13,196] {logging_mixin.py:104} INFO - [2021-07-23 16:20:13,196] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:13,279] {logging_mixin.py:104} INFO - [2021-07-23 16:20:13,278] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:13,289] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.130 seconds
+[2021-07-23 16:20:15,513] {scheduler_job.py:181} INFO - Started process (PID=1429) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:15,515] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:20:15,516] {logging_mixin.py:104} INFO - [2021-07-23 16:20:15,515] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:15,531] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:15,554] {logging_mixin.py:104} INFO - [2021-07-23 16:20:15,554] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:15,635] {logging_mixin.py:104} INFO - [2021-07-23 16:20:15,635] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:15,647] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.137 seconds
+[2021-07-23 16:20:17,925] {scheduler_job.py:181} INFO - Started process (PID=1489) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:17,932] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:20:17,936] {logging_mixin.py:104} INFO - [2021-07-23 16:20:17,936] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:17,954] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:17,973] {logging_mixin.py:104} INFO - [2021-07-23 16:20:17,973] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:18,044] {logging_mixin.py:104} INFO - [2021-07-23 16:20:18,044] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:18,056] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.134 seconds
+[2021-07-23 16:20:20,291] {scheduler_job.py:181} INFO - Started process (PID=1550) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:20,292] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:20:20,293] {logging_mixin.py:104} INFO - [2021-07-23 16:20:20,293] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:20,308] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:20,326] {logging_mixin.py:104} INFO - [2021-07-23 16:20:20,325] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:20,410] {logging_mixin.py:104} INFO - [2021-07-23 16:20:20,410] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:20,425] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.137 seconds
+[2021-07-23 16:20:22,833] {scheduler_job.py:181} INFO - Started process (PID=1612) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:22,836] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:20:22,838] {logging_mixin.py:104} INFO - [2021-07-23 16:20:22,838] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:22,854] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:22,892] {logging_mixin.py:104} INFO - [2021-07-23 16:20:22,892] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:22,973] {logging_mixin.py:104} INFO - [2021-07-23 16:20:22,973] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:22,984] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.155 seconds
+[2021-07-23 16:20:25,625] {scheduler_job.py:181} INFO - Started process (PID=1676) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:25,627] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:20:25,630] {logging_mixin.py:104} INFO - [2021-07-23 16:20:25,630] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:25,645] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:25,675] {logging_mixin.py:104} INFO - [2021-07-23 16:20:25,675] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:25,767] {logging_mixin.py:104} INFO - [2021-07-23 16:20:25,767] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:25,779] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.159 seconds
+[2021-07-23 16:20:29,237] {scheduler_job.py:181} INFO - Started process (PID=1737) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:29,239] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:20:29,239] {logging_mixin.py:104} INFO - [2021-07-23 16:20:29,239] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:29,260] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:29,389] {logging_mixin.py:104} INFO - [2021-07-23 16:20:29,388] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:29,414] {logging_mixin.py:104} INFO - [2021-07-23 16:20:29,414] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:29,428] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.194 seconds
+[2021-07-23 16:20:38,433] {scheduler_job.py:181} INFO - Started process (PID=1816) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:38,435] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:20:38,438] {logging_mixin.py:104} INFO - [2021-07-23 16:20:38,437] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:38,476] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:38,873] {logging_mixin.py:104} INFO - [2021-07-23 16:20:38,872] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:38,906] {logging_mixin.py:104} INFO - [2021-07-23 16:20:38,906] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:38,930] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.500 seconds
+[2021-07-23 16:20:44,752] {scheduler_job.py:181} INFO - Started process (PID=1877) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:44,769] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:20:44,770] {logging_mixin.py:104} INFO - [2021-07-23 16:20:44,770] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:44,813] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:45,109] {logging_mixin.py:104} INFO - [2021-07-23 16:20:45,108] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:45,176] {logging_mixin.py:104} INFO - [2021-07-23 16:20:45,175] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:45,244] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.498 seconds
+[2021-07-23 16:20:52,394] {scheduler_job.py:181} INFO - Started process (PID=1938) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:52,395] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:20:52,396] {logging_mixin.py:104} INFO - [2021-07-23 16:20:52,396] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:52,423] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:52,557] {logging_mixin.py:104} INFO - [2021-07-23 16:20:52,556] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:52,604] {logging_mixin.py:104} INFO - [2021-07-23 16:20:52,603] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:52,624] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.235 seconds
+[2021-07-23 16:20:57,045] {scheduler_job.py:181} INFO - Started process (PID=1998) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:57,049] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:20:57,052] {logging_mixin.py:104} INFO - [2021-07-23 16:20:57,052] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:57,073] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:20:57,172] {logging_mixin.py:104} INFO - [2021-07-23 16:20:57,172] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:20:57,194] {logging_mixin.py:104} INFO - [2021-07-23 16:20:57,194] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:20:57,205] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.165 seconds
+[2021-07-23 16:21:00,406] {scheduler_job.py:181} INFO - Started process (PID=2058) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:00,412] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:21:00,415] {logging_mixin.py:104} INFO - [2021-07-23 16:21:00,415] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:00,435] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:00,535] {logging_mixin.py:104} INFO - [2021-07-23 16:21:00,535] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:00,560] {logging_mixin.py:104} INFO - [2021-07-23 16:21:00,560] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:00,574] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.172 seconds
+[2021-07-23 16:21:04,419] {scheduler_job.py:181} INFO - Started process (PID=2118) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:04,422] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:21:04,429] {logging_mixin.py:104} INFO - [2021-07-23 16:21:04,428] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:04,449] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:04,544] {logging_mixin.py:104} INFO - [2021-07-23 16:21:04,544] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:04,561] {logging_mixin.py:104} INFO - [2021-07-23 16:21:04,561] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:04,572] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.165 seconds
+[2021-07-23 16:21:06,970] {scheduler_job.py:181} INFO - Started process (PID=2178) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:06,977] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:21:06,979] {logging_mixin.py:104} INFO - [2021-07-23 16:21:06,979] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:07,004] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:07,112] {logging_mixin.py:104} INFO - [2021-07-23 16:21:07,112] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:07,146] {logging_mixin.py:104} INFO - [2021-07-23 16:21:07,146] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:07,160] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.204 seconds
+[2021-07-23 16:21:10,045] {scheduler_job.py:181} INFO - Started process (PID=2282) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:10,046] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:21:10,047] {logging_mixin.py:104} INFO - [2021-07-23 16:21:10,047] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:10,063] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:10,160] {logging_mixin.py:104} INFO - [2021-07-23 16:21:10,160] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:10,180] {logging_mixin.py:104} INFO - [2021-07-23 16:21:10,180] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:10,200] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.161 seconds
+[2021-07-23 16:21:12,798] {scheduler_job.py:181} INFO - Started process (PID=2350) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:12,799] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:21:12,800] {logging_mixin.py:104} INFO - [2021-07-23 16:21:12,800] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:12,815] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:12,924] {logging_mixin.py:104} INFO - [2021-07-23 16:21:12,924] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:12,940] {logging_mixin.py:104} INFO - [2021-07-23 16:21:12,940] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:12,953] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.158 seconds
+[2021-07-23 16:21:15,372] {scheduler_job.py:181} INFO - Started process (PID=2411) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:15,373] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:21:15,374] {logging_mixin.py:104} INFO - [2021-07-23 16:21:15,373] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:15,389] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:15,476] {logging_mixin.py:104} INFO - [2021-07-23 16:21:15,476] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:15,499] {logging_mixin.py:104} INFO - [2021-07-23 16:21:15,499] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:15,511] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.146 seconds
+[2021-07-23 16:21:17,635] {scheduler_job.py:181} INFO - Started process (PID=2470) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:17,636] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:21:17,636] {logging_mixin.py:104} INFO - [2021-07-23 16:21:17,636] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:17,652] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:17,743] {logging_mixin.py:104} INFO - [2021-07-23 16:21:17,742] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:17,759] {logging_mixin.py:104} INFO - [2021-07-23 16:21:17,759] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:17,768] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.137 seconds
+[2021-07-23 16:21:20,006] {scheduler_job.py:181} INFO - Started process (PID=2531) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:20,007] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:21:20,008] {logging_mixin.py:104} INFO - [2021-07-23 16:21:20,008] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:20,022] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:20,098] {logging_mixin.py:104} INFO - [2021-07-23 16:21:20,098] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:20,116] {logging_mixin.py:104} INFO - [2021-07-23 16:21:20,116] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:20,126] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.123 seconds
+[2021-07-23 16:21:22,451] {scheduler_job.py:181} INFO - Started process (PID=2590) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:22,452] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:21:22,453] {logging_mixin.py:104} INFO - [2021-07-23 16:21:22,453] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:22,469] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:22,584] {logging_mixin.py:104} INFO - [2021-07-23 16:21:22,584] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:22,640] {logging_mixin.py:104} INFO - [2021-07-23 16:21:22,640] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:22,656] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.209 seconds
+[2021-07-23 16:21:24,993] {scheduler_job.py:181} INFO - Started process (PID=2651) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:24,995] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:21:24,996] {logging_mixin.py:104} INFO - [2021-07-23 16:21:24,996] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:25,012] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:25,105] {logging_mixin.py:104} INFO - [2021-07-23 16:21:25,105] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:25,134] {logging_mixin.py:104} INFO - [2021-07-23 16:21:25,134] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:25,147] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.158 seconds
+[2021-07-23 16:21:27,364] {scheduler_job.py:181} INFO - Started process (PID=2731) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:27,368] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:21:27,371] {logging_mixin.py:104} INFO - [2021-07-23 16:21:27,370] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:27,386] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:27,490] {logging_mixin.py:104} INFO - [2021-07-23 16:21:27,490] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:27,508] {logging_mixin.py:104} INFO - [2021-07-23 16:21:27,508] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:27,526] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.166 seconds
+[2021-07-23 16:21:30,076] {scheduler_job.py:181} INFO - Started process (PID=2791) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:30,078] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:21:30,078] {logging_mixin.py:104} INFO - [2021-07-23 16:21:30,078] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:30,095] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:30,191] {logging_mixin.py:104} INFO - [2021-07-23 16:21:30,191] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:30,208] {logging_mixin.py:104} INFO - [2021-07-23 16:21:30,208] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:30,218] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.145 seconds
+[2021-07-23 16:21:33,020] {scheduler_job.py:181} INFO - Started process (PID=2852) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:33,022] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:21:33,022] {logging_mixin.py:104} INFO - [2021-07-23 16:21:33,022] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:33,037] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:33,172] {logging_mixin.py:104} INFO - [2021-07-23 16:21:33,171] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:33,204] {logging_mixin.py:104} INFO - [2021-07-23 16:21:33,204] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:33,220] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.204 seconds
+[2021-07-23 16:21:36,253] {scheduler_job.py:181} INFO - Started process (PID=2911) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:36,254] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:21:36,255] {logging_mixin.py:104} INFO - [2021-07-23 16:21:36,255] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:36,288] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:36,441] {logging_mixin.py:104} INFO - [2021-07-23 16:21:36,440] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:36,478] {logging_mixin.py:104} INFO - [2021-07-23 16:21:36,478] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:36,501] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.259 seconds
+[2021-07-23 16:21:39,074] {scheduler_job.py:181} INFO - Started process (PID=2971) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:39,077] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:21:39,081] {logging_mixin.py:104} INFO - [2021-07-23 16:21:39,080] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:39,096] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:39,196] {logging_mixin.py:104} INFO - [2021-07-23 16:21:39,196] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:39,221] {logging_mixin.py:104} INFO - [2021-07-23 16:21:39,221] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:39,233] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.164 seconds
+[2021-07-23 16:21:42,058] {scheduler_job.py:181} INFO - Started process (PID=3031) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:42,072] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:21:42,073] {logging_mixin.py:104} INFO - [2021-07-23 16:21:42,073] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:42,114] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:42,277] {logging_mixin.py:104} INFO - [2021-07-23 16:21:42,277] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:42,313] {logging_mixin.py:104} INFO - [2021-07-23 16:21:42,313] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:42,343] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.289 seconds
+[2021-07-23 16:21:46,392] {scheduler_job.py:181} INFO - Started process (PID=3091) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:46,404] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:21:46,405] {logging_mixin.py:104} INFO - [2021-07-23 16:21:46,405] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:46,444] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:46,575] {logging_mixin.py:104} INFO - [2021-07-23 16:21:46,575] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:46,601] {logging_mixin.py:104} INFO - [2021-07-23 16:21:46,601] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:46,632] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.244 seconds
+[2021-07-23 16:21:49,899] {scheduler_job.py:181} INFO - Started process (PID=3153) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:49,904] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:21:49,910] {logging_mixin.py:104} INFO - [2021-07-23 16:21:49,909] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:49,939] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:50,050] {logging_mixin.py:104} INFO - [2021-07-23 16:21:50,050] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:50,077] {logging_mixin.py:104} INFO - [2021-07-23 16:21:50,077] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:50,088] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.192 seconds
+[2021-07-23 16:21:53,570] {scheduler_job.py:181} INFO - Started process (PID=3212) to work on /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:53,571] {scheduler_job.py:632} INFO - Processing file /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2021-07-23 16:21:53,572] {logging_mixin.py:104} INFO - [2021-07-23 16:21:53,571] {dagbag.py:496} INFO - Filling up the DagBag from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:53,585] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2021-07-23 16:21:53,677] {logging_mixin.py:104} INFO - [2021-07-23 16:21:53,677] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-23 16:21:53,694] {logging_mixin.py:104} INFO - [2021-07-23 16:21:53,694] {dag.py:2306} INFO - Setting next_dagrun for example_branch_labels to 2021-07-21 00:00:00+00:00
+[2021-07-23 16:21:53,705] {scheduler_job.py:189} INFO - Processing /home/dennismutia/.virtualenvs/wefarm/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.138 seconds
